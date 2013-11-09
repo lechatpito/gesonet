@@ -1,8 +1,10 @@
 GESONET
 =======
 
-gesonet.py: a Python program to generate random social networks. Yes, random people having connections between them.
-Connections are made to be realistic: my friends are often friends and we all follow famous people.
+gesonet.py: a Python program to generate random social networks. Yes, random people having connections between them. Connections are made to be realistic: my friends are often friends and we all follow famous people.
+
+Require: http://github.com/lechatpito/Names
+
 Install: python setup.py install
 
 usage: gesonet.py [-h] [--nbnodes NBNODES] [--format FORMAT] [--file FILE]
