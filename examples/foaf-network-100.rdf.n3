@@ -1,0 +1,2779 @@
+@prefix ns1: <http://xmlns.com/foaf/0.1/> .
+@prefix ns2: <http://purl.org/vocab/bio/0.1/> .
+@prefix ns3: <http://www.w3.org/2006/vcard/ns#> .
+@prefix ns4: <http://purl.org/dc/elements/1.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.lirmm.fr/foaf-network/address/7deb40a6-4bac-11e3-8b48-525400c94e15> ns3:locality "Smyrna" ;
+    ns3:region "South Carolina" ;
+    ns3:streetAddress "Deegan Expressway Sr" .
+
+<http://data.lirmm.fr/foaf-network/address/7dec7d36-4bac-11e3-8b48-525400c94e15> ns3:locality "Drexel-Alvernon" ;
+    ns3:region "Arizona" ;
+    ns3:streetAddress "Martin L King Avenue Wb Roadbed" .
+
+<http://data.lirmm.fr/foaf-network/address/7dee3ce8-4bac-11e3-8b48-525400c94e15> ns3:locality "Eglin AFB" ;
+    ns3:region "Florida" ;
+    ns3:streetAddress "Ludwig Lane" .
+
+<http://data.lirmm.fr/foaf-network/address/7def8ed6-4bac-11e3-8b48-525400c94e15> ns3:locality "Inkster" ;
+    ns3:region "Michigan" ;
+    ns3:streetAddress "A Kornegay Way" .
+
+<http://data.lirmm.fr/foaf-network/address/7df1651c-4bac-11e3-8b48-525400c94e15> ns3:locality "Northport" ;
+    ns3:region "Michigan" ;
+    ns3:streetAddress "Ft Hamilton Parkway Bike Path" .
+
+<http://data.lirmm.fr/foaf-network/address/7df1fb94-4bac-11e3-8b48-525400c94e15> ns3:locality "Conception Bay South" ;
+    ns3:region "Newfoundland and Labrador" ;
+    ns3:streetAddress "East  223 Street" .
+
+<http://data.lirmm.fr/foaf-network/address/7df2978e-4bac-11e3-8b48-525400c94e15> ns3:locality "Georgetown" ;
+    ns3:region "Minnesota" ;
+    ns3:streetAddress "Firefighter Cordice Boulevard" .
+
+<http://data.lirmm.fr/foaf-network/address/7df2978f-4bac-11e3-8b48-525400c94e15> ns3:locality "Ellsworth" ;
+    ns3:region "New Hampshire" ;
+    ns3:streetAddress "A C P Boulevard Sb Roadbed" .
+
+<http://data.lirmm.fr/foaf-network/address/7df361dc-4bac-11e3-8b48-525400c94e15> ns3:locality "Startup" ;
+    ns3:region "Washington" ;
+    ns3:streetAddress "Gansevoort Street" .
+
+<http://data.lirmm.fr/foaf-network/address/7df361dd-4bac-11e3-8b48-525400c94e15> ns3:locality "Lake Waukomis" ;
+    ns3:region "Missouri" ;
+    ns3:streetAddress "Doctor J J Sass Place" .
+
+<http://data.lirmm.fr/foaf-network/address/7df3d0b8-4bac-11e3-8b48-525400c94e15> ns3:locality "Hicksville" ;
+    ns3:region "Ohio" ;
+    ns3:streetAddress "Mass Street" .
+
+<http://data.lirmm.fr/foaf-network/address/7df48c10-4bac-11e3-8b48-525400c94e15> ns3:locality "Saint Robert" ;
+    ns3:region "Missouri" ;
+    ns3:streetAddress "Oceanview Place" .
+
+<http://data.lirmm.fr/foaf-network/address/7df48c11-4bac-11e3-8b48-525400c94e15> ns3:locality "Mokuleia" ;
+    ns3:region "Hawaii" ;
+    ns3:streetAddress "Vladeck Ii Houses Ped Path" .
+
+<http://data.lirmm.fr/foaf-network/address/7df5111c-4bac-11e3-8b48-525400c94e15> ns3:locality "Bisbee" ;
+    ns3:region "North Dakota" ;
+    ns3:streetAddress "P O William Rivera Way" .
+
+<http://data.lirmm.fr/foaf-network/address/7df5111d-4bac-11e3-8b48-525400c94e15> ns3:locality "Monterey" ;
+    ns3:region "Kentucky" ;
+    ns3:streetAddress "East  109 Street" .
+
+<http://data.lirmm.fr/foaf-network/address/7df5b6ee-4bac-11e3-8b48-525400c94e15> ns3:locality "Vance" ;
+    ns3:region "South Carolina" ;
+    ns3:streetAddress "Wadsworth Road" .
+
+<http://data.lirmm.fr/foaf-network/address/7df5b6ef-4bac-11e3-8b48-525400c94e15> ns3:locality "Asharoken" ;
+    ns3:region "New York" ;
+    ns3:streetAddress "Curtis Avenue" .
+
+<http://data.lirmm.fr/foaf-network/address/7df6415e-4bac-11e3-8b48-525400c94e15> ns3:locality "Princeton" ;
+    ns3:region "British Columbia" ;
+    ns3:streetAddress "K W White Street" .
+
+<http://data.lirmm.fr/foaf-network/address/7df6edca-4bac-11e3-8b48-525400c94e15> ns3:locality "Narragansett Pier" ;
+    ns3:region "Rhode Island" ;
+    ns3:streetAddress "L Rosenberg Court" .
+
+<http://data.lirmm.fr/foaf-network/address/7df6edcb-4bac-11e3-8b48-525400c94e15> ns3:locality "Palo Alto" ;
+    ns3:region "California" ;
+    ns3:streetAddress "Lloyd Court" .
+
+<http://data.lirmm.fr/foaf-network/address/7df779fc-4bac-11e3-8b48-525400c94e15> ns3:locality "Portage" ;
+    ns3:region "Indiana" ;
+    ns3:streetAddress "Roe Street" .
+
+<http://data.lirmm.fr/foaf-network/address/7df779fd-4bac-11e3-8b48-525400c94e15> ns3:locality "Cassville" ;
+    ns3:region "West Virginia" ;
+    ns3:streetAddress "Vanburen Street" .
+
+<http://data.lirmm.fr/foaf-network/address/7df82046-4bac-11e3-8b48-525400c94e15> ns3:locality "Alvo" ;
+    ns3:region "Nebraska" ;
+    ns3:streetAddress "Earley Avenue" .
+
+<http://data.lirmm.fr/foaf-network/address/7df82047-4bac-11e3-8b48-525400c94e15> ns3:locality "Placerville" ;
+    ns3:region "California" ;
+    ns3:streetAddress "Sheridan Place" .
+
+<http://data.lirmm.fr/foaf-network/address/7df8b290-4bac-11e3-8b48-525400c94e15> ns3:locality "Rhinelander" ;
+    ns3:region "Wisconsin" ;
+    ns3:streetAddress "Eugene Place" .
+
+<http://data.lirmm.fr/foaf-network/address/7df8b291-4bac-11e3-8b48-525400c94e15> ns3:locality "Flagler" ;
+    ns3:region "Colorado" ;
+    ns3:streetAddress "Zerega Avenue" .
+
+<http://data.lirmm.fr/foaf-network/address/7df94e6c-4bac-11e3-8b48-525400c94e15> ns3:locality "Hawthorne" ;
+    ns3:region "California" ;
+    ns3:streetAddress "East   78 Street" .
+
+<http://data.lirmm.fr/foaf-network/address/7df94e6d-4bac-11e3-8b48-525400c94e15> ns3:locality "Elizabet" ;
+    ns3:region "Indiana" ;
+    ns3:streetAddress "Ashton Drive" .
+
+<http://data.lirmm.fr/foaf-network/address/7df9f01a-4bac-11e3-8b48-525400c94e15> ns3:locality "Coleridge" ;
+    ns3:region "Nebraska" ;
+    ns3:streetAddress "Vandalia Avenue Wb Roadbed" .
+
+<http://data.lirmm.fr/foaf-network/address/7dfa85e8-4bac-11e3-8b48-525400c94e15> ns3:locality "Golden Meadow" ;
+    ns3:region "Louisiana" ;
+    ns3:streetAddress "Van Name Avenue" .
+
+<http://data.lirmm.fr/foaf-network/address/7dfac5d0-4bac-11e3-8b48-525400c94e15> ns3:locality "Orland Hills" ;
+    ns3:region "Illinois" ;
+    ns3:streetAddress "Dr J J Sass Place" .
+
+<http://data.lirmm.fr/foaf-network/address/7dfb28fe-4bac-11e3-8b48-525400c94e15> ns3:locality "Tipton" ;
+    ns3:region "Missouri" ;
+    ns3:streetAddress "Avenue W Wb Roadbed" .
+
+<http://data.lirmm.fr/foaf-network/address/7dfb28ff-4bac-11e3-8b48-525400c94e15> ns3:locality "Manilla" ;
+    ns3:region "Iowa" ;
+    ns3:streetAddress "Lincoln Tunnel Appr Outer Nb Rb" .
+
+<http://data.lirmm.fr/foaf-network/address/7dfbbe9a-4bac-11e3-8b48-525400c94e15> ns3:locality "Hillsboro Beach" ;
+    ns3:region "Florida" ;
+    ns3:streetAddress "Pelhambruck Southbound Ramp" .
+
+<http://data.lirmm.fr/foaf-network/address/7dfc2286-4bac-11e3-8b48-525400c94e15> ns3:locality "Buttonwillow" ;
+    ns3:region "California" ;
+    ns3:streetAddress "Leyden Place" .
+
+<http://data.lirmm.fr/foaf-network/address/7dfc617e-4bac-11e3-8b48-525400c94e15> ns3:locality "Westchase" ;
+    ns3:region "Florida" ;
+    ns3:streetAddress "Chester Court" .
+
+<http://data.lirmm.fr/foaf-network/address/7dfc617f-4bac-11e3-8b48-525400c94e15> ns3:locality "Tennyson" ;
+    ns3:region "Wisconsin" ;
+    ns3:streetAddress "Avenue St John'S" .
+
+<http://data.lirmm.fr/foaf-network/address/7dfcf6fc-4bac-11e3-8b48-525400c94e15> ns3:locality "Elderton" ;
+    ns3:region "Pennsylvania" ;
+    ns3:streetAddress "Crescent Avenue" .
+
+<http://data.lirmm.fr/foaf-network/address/7dfcf6fd-4bac-11e3-8b48-525400c94e15> ns3:locality "Pinehurst" ;
+    ns3:region "Texas" ;
+    ns3:streetAddress "Devoe Street" .
+
+<http://data.lirmm.fr/foaf-network/address/7dfd99d6-4bac-11e3-8b48-525400c94e15> ns3:locality "Tahoka" ;
+    ns3:region "Texas" ;
+    ns3:streetAddress "Joseph Holzka Court" .
+
+<http://data.lirmm.fr/foaf-network/address/7dfd99d7-4bac-11e3-8b48-525400c94e15> ns3:locality "Priest River" ;
+    ns3:region "Idaho" ;
+    ns3:streetAddress "New England Ty Sr" .
+
+<http://data.lirmm.fr/foaf-network/address/7dfe2f90-4bac-11e3-8b48-525400c94e15> ns3:locality "Gold Hill" ;
+    ns3:region "Oregon" ;
+    ns3:streetAddress "Paerdegat    7 Street" .
+
+<http://data.lirmm.fr/foaf-network/address/7dfe2f91-4bac-11e3-8b48-525400c94e15> ns3:locality "Wolford" ;
+    ns3:region "North Dakota" ;
+    ns3:streetAddress "Hammel Houses Pedestrian Path" .
+
+<http://data.lirmm.fr/foaf-network/address/7dfed238-4bac-11e3-8b48-525400c94e15> ns3:locality "Heflin" ;
+    ns3:region "Alabama" ;
+    ns3:streetAddress "Nathaniel Tyler Lloyd Place" .
+
+<http://data.lirmm.fr/foaf-network/address/7dfed239-4bac-11e3-8b48-525400c94e15> ns3:locality "Sturgeon Falls" ;
+    ns3:region "Ontario" ;
+    ns3:streetAddress "Hernandez Place" .
+
+<http://data.lirmm.fr/foaf-network/address/7dff681a-4bac-11e3-8b48-525400c94e15> ns3:locality "Searchlight" ;
+    ns3:region "Nevada" ;
+    ns3:streetAddress "Jackson Avenue" .
+
+<http://data.lirmm.fr/foaf-network/address/7dff681b-4bac-11e3-8b48-525400c94e15> ns3:locality "Vandenberg AFB" ;
+    ns3:region "California" ;
+    ns3:streetAddress "Oneill Place" .
+
+<http://data.lirmm.fr/foaf-network/address/7e000aa4-4bac-11e3-8b48-525400c94e15> ns3:locality "Eden" ;
+    ns3:region "South Dakota" ;
+    ns3:streetAddress "M D'Auria Avenue" .
+
+<http://data.lirmm.fr/foaf-network/address/7e00a004-4bac-11e3-8b48-525400c94e15> ns3:locality "Northfield" ;
+    ns3:region "New Jersey" ;
+    ns3:streetAddress "King Towers Houses Ped Path" .
+
+<http://data.lirmm.fr/foaf-network/address/7e00a07c-4bac-11e3-8b48-525400c94e15> ns3:locality "Staunton" ;
+    ns3:region "Virginia" ;
+    ns3:streetAddress "A J Ranieri Way" .
+
+<http://data.lirmm.fr/foaf-network/address/7e014324-4bac-11e3-8b48-525400c94e15> ns3:locality "Mount Joy" ;
+    ns3:region "Pennsylvania" ;
+    ns3:streetAddress "Gain Court" .
+
+<http://data.lirmm.fr/foaf-network/address/7e014325-4bac-11e3-8b48-525400c94e15> ns3:locality "Princeton" ;
+    ns3:region "North Carolina" ;
+    ns3:streetAddress "Middle Loop Road" .
+
+<http://data.lirmm.fr/foaf-network/address/7e014326-4bac-11e3-8b48-525400c94e15> ns3:locality "Greers Ferry" ;
+    ns3:region "Arkansas" ;
+    ns3:streetAddress "Gr Concourse Southbound Roadbed" .
+
+<http://data.lirmm.fr/foaf-network/address/7e01d906-4bac-11e3-8b48-525400c94e15> ns3:locality "Melissa" ;
+    ns3:region "Texas" ;
+    ns3:streetAddress "Firefighter C Mozzillo Place" .
+
+<http://data.lirmm.fr/foaf-network/address/7e027c08-4bac-11e3-8b48-525400c94e15> ns3:locality "Gardner" ;
+    ns3:region "North Dakota" ;
+    ns3:streetAddress "Koch Boulevard" .
+
+<http://data.lirmm.fr/foaf-network/address/7e027c09-4bac-11e3-8b48-525400c94e15> ns3:locality "Ansonia" ;
+    ns3:region "Ohio" ;
+    ns3:streetAddress "Ryders Alley" .
+
+<http://data.lirmm.fr/foaf-network/address/7e031190-4bac-11e3-8b48-525400c94e15> ns3:locality "Saint Cloud" ;
+    ns3:region "Florida" ;
+    ns3:streetAddress "North Oxford Street" .
+
+<http://data.lirmm.fr/foaf-network/address/7e031191-4bac-11e3-8b48-525400c94e15> ns3:locality "Calpet" ;
+    ns3:region "Wyoming" ;
+    ns3:streetAddress "Drumgoole Road West Sb Roadbed" .
+
+<http://data.lirmm.fr/foaf-network/address/7e03b460-4bac-11e3-8b48-525400c94e15> ns3:locality "Coquille" ;
+    ns3:region "Oregon" ;
+    ns3:streetAddress "Eighth Street" .
+
+<http://data.lirmm.fr/foaf-network/address/7e03b461-4bac-11e3-8b48-525400c94e15> ns3:locality "Rumney" ;
+    ns3:region "New Hampshire" ;
+    ns3:streetAddress "Alex Ham Br Ap Eastbound Roadbed" .
+
+<http://data.lirmm.fr/foaf-network/address/7e044a06-4bac-11e3-8b48-525400c94e15> ns3:locality "Fort Madison" ;
+    ns3:region "Iowa" ;
+    ns3:streetAddress "Osseo Place" .
+
+<http://data.lirmm.fr/foaf-network/address/7e044a07-4bac-11e3-8b48-525400c94e15> ns3:locality "Port Clarence" ;
+    ns3:region "Alaska" ;
+    ns3:streetAddress "Hillview Place" .
+
+<http://data.lirmm.fr/foaf-network/address/7e04ec4a-4bac-11e3-8b48-525400c94e15> ns3:locality "Sellers" ;
+    ns3:region "South Carolina" ;
+    ns3:streetAddress "Canton Court" .
+
+<http://data.lirmm.fr/foaf-network/address/7e04ec4b-4bac-11e3-8b48-525400c94e15> ns3:locality "Protection" ;
+    ns3:region "Kansas" ;
+    ns3:streetAddress "Brighton   10 Terrace" .
+
+<http://data.lirmm.fr/foaf-network/address/7e05822c-4bac-11e3-8b48-525400c94e15> ns3:locality "Saint Robert" ;
+    ns3:region "Missouri" ;
+    ns3:streetAddress "Po Moira Smith Way" .
+
+<http://data.lirmm.fr/foaf-network/address/7e05822d-4bac-11e3-8b48-525400c94e15> ns3:locality "Saint George" ;
+    ns3:region "Ontario" ;
+    ns3:streetAddress "Rev Jones Boulevard" .
+
+<http://data.lirmm.fr/foaf-network/address/7e061f8e-4bac-11e3-8b48-525400c94e15> ns3:locality "Troy" ;
+    ns3:region "Missouri" ;
+    ns3:streetAddress "Drumgoole Road West Nb Roadbed" .
+
+<http://data.lirmm.fr/foaf-network/address/7e061f8f-4bac-11e3-8b48-525400c94e15> ns3:locality "Kiowa" ;
+    ns3:region "Colorado" ;
+    ns3:streetAddress "F F Bergin Place" .
+
+<http://data.lirmm.fr/foaf-network/address/7e06ba7a-4bac-11e3-8b48-525400c94e15> ns3:locality "Woodville" ;
+    ns3:region "Georgia" ;
+    ns3:streetAddress "Mt Hope Place" .
+
+<http://data.lirmm.fr/foaf-network/address/7e06ba7b-4bac-11e3-8b48-525400c94e15> ns3:locality "Phoenix Lake-Cedar Ridge" ;
+    ns3:region "California" ;
+    ns3:streetAddress "Getz Lane" .
+
+<http://data.lirmm.fr/foaf-network/address/7e075746-4bac-11e3-8b48-525400c94e15> ns3:locality "Graton" ;
+    ns3:region "California" ;
+    ns3:streetAddress "E Burnside Ave Upper Eb Roadbed" .
+
+<http://data.lirmm.fr/foaf-network/address/7e07fa20-4bac-11e3-8b48-525400c94e15> ns3:locality "Fairview" ;
+    ns3:region "Oklahoma" ;
+    ns3:streetAddress "Flatbush Court" .
+
+<http://data.lirmm.fr/foaf-network/address/7e07fa21-4bac-11e3-8b48-525400c94e15> ns3:locality "Jeanerette" ;
+    ns3:region "Louisiana" ;
+    ns3:streetAddress "J V Nemorin Street" .
+
+<http://data.lirmm.fr/foaf-network/address/7e088fbc-4bac-11e3-8b48-525400c94e15> ns3:locality "Hastings" ;
+    ns3:region "Minnesota" ;
+    ns3:streetAddress "Joey Mascali Avenue" .
+
+<http://data.lirmm.fr/foaf-network/address/7e088fbd-4bac-11e3-8b48-525400c94e15> ns3:locality "Lynch" ;
+    ns3:region "Kentucky" ;
+    ns3:streetAddress "Irving Avenue" .
+
+<http://data.lirmm.fr/foaf-network/address/7e088fbe-4bac-11e3-8b48-525400c94e15> ns3:locality "Passaic" ;
+    ns3:region "New Jersey" ;
+    ns3:streetAddress "Richmond Parkway Nb Roadbed" .
+
+<http://data.lirmm.fr/foaf-network/address/7e0937fa-4bac-11e3-8b48-525400c94e15> ns3:locality "Square Lake" ;
+    ns3:region "Maine" ;
+    ns3:streetAddress "Garrick Street" .
+
+<http://data.lirmm.fr/foaf-network/address/7e09c85a-4bac-11e3-8b48-525400c94e15> ns3:locality "Mulberry" ;
+    ns3:region "South Carolina" ;
+    ns3:streetAddress "Gouverneur Street" .
+
+<http://data.lirmm.fr/foaf-network/address/7e09f820-4bac-11e3-8b48-525400c94e15> ns3:locality "Finneytown" ;
+    ns3:region "Ohio" ;
+    ns3:streetAddress "Dr S Ray Boulevard" .
+
+<http://data.lirmm.fr/foaf-network/address/7e0a6b20-4bac-11e3-8b48-525400c94e15> ns3:locality "Julesburg" ;
+    ns3:region "Colorado" ;
+    ns3:streetAddress "Hilldale Court" .
+
+<http://data.lirmm.fr/foaf-network/address/7e0a6b21-4bac-11e3-8b48-525400c94e15> ns3:locality "Brandon" ;
+    ns3:region "Florida" ;
+    ns3:streetAddress "Avenue Of Puerto Rico" .
+
+<http://data.lirmm.fr/foaf-network/address/7e0b00d0-4bac-11e3-8b48-525400c94e15> ns3:locality "Morehouse" ;
+    ns3:region "Missouri" ;
+    ns3:streetAddress "East Tenafly Avenue" .
+
+<http://data.lirmm.fr/foaf-network/address/7e0b00d1-4bac-11e3-8b48-525400c94e15> ns3:locality "Elroy" ;
+    ns3:region "North Carolina" ;
+    ns3:streetAddress "Throgs Neck Bridge Approach" .
+
+<http://data.lirmm.fr/foaf-network/address/7e0ba31e-4bac-11e3-8b48-525400c94e15> ns3:locality "Haslet" ;
+    ns3:region "Texas" ;
+    ns3:streetAddress "Br    5 Street" .
+
+<http://data.lirmm.fr/foaf-network/address/7e0ba31f-4bac-11e3-8b48-525400c94e15> ns3:locality "Dora" ;
+    ns3:region "Alabama" ;
+    ns3:streetAddress "White Court" .
+
+<http://data.lirmm.fr/foaf-network/address/7e0c38ec-4bac-11e3-8b48-525400c94e15> ns3:locality "Granton" ;
+    ns3:region "Wisconsin" ;
+    ns3:streetAddress "Reverend Doctor Lloyd Place" .
+
+<http://data.lirmm.fr/foaf-network/address/7e0c38ed-4bac-11e3-8b48-525400c94e15> ns3:locality "Koliganek" ;
+    ns3:region "Alaska" ;
+    ns3:streetAddress "A Rivera Romans Place" .
+
+<http://data.lirmm.fr/foaf-network/address/7e0cd676-4bac-11e3-8b48-525400c94e15> ns3:locality "Savage" ;
+    ns3:region "Minnesota" ;
+    ns3:streetAddress "J Quinn Way" .
+
+<http://data.lirmm.fr/foaf-network/address/7e0cd677-4bac-11e3-8b48-525400c94e15> ns3:locality "Olmsted Falls" ;
+    ns3:region "Ohio" ;
+    ns3:streetAddress "Deltman Avenue" .
+
+<http://data.lirmm.fr/foaf-network/address/7e0d7306-4bac-11e3-8b48-525400c94e15> ns3:locality "Fruitville" ;
+    ns3:region "Florida" ;
+    ns3:streetAddress "Robinson Beach" .
+
+<http://data.lirmm.fr/foaf-network/address/7e0d7307-4bac-11e3-8b48-525400c94e15> ns3:locality "Wyoming" ;
+    ns3:region "Michigan" ;
+    ns3:streetAddress "Lieutenant P S Petti Place" .
+
+<http://data.lirmm.fr/foaf-network/address/7e0e0f00-4bac-11e3-8b48-525400c94e15> ns3:locality "Kansas City" ;
+    ns3:region "Missouri" ;
+    ns3:streetAddress "Hilltop Place" .
+
+<http://data.lirmm.fr/foaf-network/address/7e0ea33e-4bac-11e3-8b48-525400c94e15> ns3:locality "Reasnor" ;
+    ns3:region "Iowa" ;
+    ns3:streetAddress "Heath Place" .
+
+<http://data.lirmm.fr/foaf-network/address/7e0ea9f6-4bac-11e3-8b48-525400c94e15> ns3:locality "Milroy" ;
+    ns3:region "Pennsylvania" ;
+    ns3:streetAddress "Police Officer Lozada Way" .
+
+<http://data.lirmm.fr/foaf-network/address/7e0f4762-4bac-11e3-8b48-525400c94e15> ns3:locality "Smith Mills" ;
+    ns3:region "Massachusetts" ;
+    ns3:streetAddress "East   53 Street" .
+
+<http://data.lirmm.fr/foaf-network/address/7e0f4763-4bac-11e3-8b48-525400c94e15> ns3:locality "Littleton" ;
+    ns3:region "West Virginia" ;
+    ns3:streetAddress "West   43 Street" .
+
+<http://data.lirmm.fr/foaf-network/address/7e0fe276-4bac-11e3-8b48-525400c94e15> ns3:locality "Felida" ;
+    ns3:region "Washington" ;
+    ns3:streetAddress "Bass Street" .
+
+<http://data.lirmm.fr/foaf-network/address/7e0fe277-4bac-11e3-8b48-525400c94e15> ns3:locality "Southern Shops" ;
+    ns3:region "South Carolina" ;
+    ns3:streetAddress "Forbell Street" .
+
+<http://data.lirmm.fr/foaf-network/address/7e107fe2-4bac-11e3-8b48-525400c94e15> ns3:locality "Gratiot" ;
+    ns3:region "Ohio" ;
+    ns3:streetAddress "West Street" .
+
+<http://data.lirmm.fr/foaf-network/address/7e107fe3-4bac-11e3-8b48-525400c94e15> ns3:locality "Offerle" ;
+    ns3:region "Kansas" ;
+    ns3:streetAddress "New England Ty East Roadbed" .
+
+<http://data.lirmm.fr/foaf-network/address/7e111b00-4bac-11e3-8b48-525400c94e15> ns3:locality "Nelliston" ;
+    ns3:region "New York" ;
+    ns3:streetAddress "Archer Road" .
+
+<http://data.lirmm.fr/foaf-network/address/7e111b01-4bac-11e3-8b48-525400c94e15> ns3:locality "Northeast Piscataquis" ;
+    ns3:region "Maine" ;
+    ns3:streetAddress "Alex Hamilton Br Approach Eb Rb" .
+
+<http://data.lirmm.fr/foaf-network/address/7e11b880-4bac-11e3-8b48-525400c94e15> ns3:locality "Kipton" ;
+    ns3:region "Ohio" ;
+    ns3:streetAddress "Central Park West" .
+
+<http://data.lirmm.fr/foaf-network/address/7e11b881-4bac-11e3-8b48-525400c94e15> ns3:locality "Madison" ;
+    ns3:region "North Carolina" ;
+    ns3:streetAddress "Astoria Greenway" .
+
+<http://data.lirmm.fr/foaf-network/address/7e125394-4bac-11e3-8b48-525400c94e15> ns3:locality "Farrell" ;
+    ns3:region "Pennsylvania" ;
+    ns3:streetAddress "Vn Cortlandt Park South" .
+
+<http://data.lirmm.fr/foaf-network/address/7e125395-4bac-11e3-8b48-525400c94e15> ns3:locality "Garland" ;
+    ns3:region "Texas" ;
+    ns3:streetAddress "Christopher Street" .
+
+<http://data.lirmm.fr/foaf-network/address/7e12f0ec-4bac-11e3-8b48-525400c94e15> ns3:locality "Follett" ;
+    ns3:region "Texas" ;
+    ns3:streetAddress "Wright Street" .
+
+<http://data.lirmm.fr/foaf-network/address/7e12f0ed-4bac-11e3-8b48-525400c94e15> ns3:locality "Woodburn" ;
+    ns3:region "Indiana" ;
+    ns3:streetAddress "Knolls Crescent" .
+
+<http://data.lirmm.fr/foaf-network/address/7e138c1e-4bac-11e3-8b48-525400c94e15> ns3:locality "Syosset" ;
+    ns3:region "New York" ;
+    ns3:streetAddress "Cypress Hills St Wb Roadbed" .
+
+<http://data.lirmm.fr/foaf-network/address/7e138c1f-4bac-11e3-8b48-525400c94e15> ns3:locality "Salisbury" ;
+    ns3:region "Missouri" ;
+    ns3:streetAddress "Henderson Square" .
+
+<http://data.lirmm.fr/foaf-network/address/7e142958-4bac-11e3-8b48-525400c94e15> ns3:locality "Chillicothe" ;
+    ns3:region "Iowa" ;
+    ns3:streetAddress "Bronxdale Avenue" .
+
+<http://data.lirmm.fr/foaf-network/address/7e14ab76-4bac-11e3-8b48-525400c94e15> ns3:locality "Bloomsdale" ;
+    ns3:region "Missouri" ;
+    ns3:streetAddress "Joyce Lane" .
+
+<http://data.lirmm.fr/foaf-network/address/7e14c4b2-4bac-11e3-8b48-525400c94e15> ns3:locality "Kingstree" ;
+    ns3:region "South Carolina" ;
+    ns3:streetAddress "West    6 Street" .
+
+<http://data.lirmm.fr/foaf-network/address/7e14c4b3-4bac-11e3-8b48-525400c94e15> ns3:locality "Stevens Point" ;
+    ns3:region "Wisconsin" ;
+    ns3:streetAddress "Bishop Robinson Place" .
+
+<http://data.lirmm.fr/foaf-network/address/7e1561d8-4bac-11e3-8b48-525400c94e15> ns3:locality "Tuckerman" ;
+    ns3:region "Arkansas" ;
+    ns3:streetAddress "Firefighter J Olsen Street" .
+
+<http://data.lirmm.fr/foaf-network/address/7e15e018-4bac-11e3-8b48-525400c94e15> ns3:locality "Alto Bonito" ;
+    ns3:region "Texas" ;
+    ns3:streetAddress "Robert Gould Shaw'S Glory Way" .
+
+<http://data.lirmm.fr/foaf-network/address/7e15fd14-4bac-11e3-8b48-525400c94e15> ns3:locality "Standish" ;
+    ns3:region "Maine" ;
+    ns3:streetAddress "Merchant Marine Veterans Place" .
+
+<http://data.lirmm.fr/foaf-network/address/7e169a62-4bac-11e3-8b48-525400c94e15> ns3:locality "Gooding" ;
+    ns3:region "Idaho" ;
+    ns3:streetAddress "Belvedere Court" .
+
+<http://data.lirmm.fr/foaf-network/address/7e16c0a0-4bac-11e3-8b48-525400c94e15> ns3:locality "Robbinston" ;
+    ns3:region "Maine" ;
+    ns3:streetAddress "Kappock Street" .
+
+<http://data.lirmm.fr/foaf-network/address/7e1735a8-4bac-11e3-8b48-525400c94e15> ns3:locality "Verona" ;
+    ns3:region "Illinois" ;
+    ns3:streetAddress "Bedford Park Blvd Inner Eb Rb" .
+
+<http://data.lirmm.fr/foaf-network/address/7e1735a9-4bac-11e3-8b48-525400c94e15> ns3:locality "Ripley" ;
+    ns3:region "Tennessee" ;
+    ns3:streetAddress "Hill Street" .
+
+<http://data.lirmm.fr/foaf-network/address/7e17d2e2-4bac-11e3-8b48-525400c94e15> ns3:locality "South Salt Lake" ;
+    ns3:region "Utah" ;
+    ns3:streetAddress "Adrianne Lane" .
+
+<http://data.lirmm.fr/foaf-network/address/7e182422-4bac-11e3-8b48-525400c94e15> ns3:locality "Sneads Ferry" ;
+    ns3:region "North Carolina" ;
+    ns3:streetAddress "Ocean Parkway Inner Sb Roadbed" .
+
+<http://data.lirmm.fr/foaf-network/address/7e186e3c-4bac-11e3-8b48-525400c94e15> ns3:locality "Brodhead" ;
+    ns3:region "Kentucky" ;
+    ns3:streetAddress "Avenue Saintjohn" .
+
+<http://data.lirmm.fr/foaf-network/address/7e186e3d-4bac-11e3-8b48-525400c94e15> ns3:locality "Rumson" ;
+    ns3:region "New Jersey" ;
+    ns3:streetAddress "William Bill Sicklick Place" .
+
+<http://data.lirmm.fr/foaf-network/address/7e190b58-4bac-11e3-8b48-525400c94e15> ns3:locality "Starkville" ;
+    ns3:region "Mississippi" ;
+    ns3:streetAddress "Adam Powell Blvd Sb Roadbed" .
+
+<http://data.lirmm.fr/foaf-network/address/7e1958ba-4bac-11e3-8b48-525400c94e15> ns3:locality "Plandome" ;
+    ns3:region "New York" ;
+    ns3:streetAddress "Verrazano Br Appr Lower Roadway" .
+
+<http://data.lirmm.fr/foaf-network/address/7e19a6c6-4bac-11e3-8b48-525400c94e15> ns3:locality "Montesano" ;
+    ns3:region "Washington" ;
+    ns3:streetAddress "F F D Oberg Way" .
+
+<http://data.lirmm.fr/foaf-network/address/7e19c58e-4bac-11e3-8b48-525400c94e15> ns3:locality "Dundalk" ;
+    ns3:region "Ontario" ;
+    ns3:streetAddress "Martin King Jr Place" .
+
+<http://data.lirmm.fr/foaf-network/address/7e1a6eb2-4bac-11e3-8b48-525400c94e15> ns3:locality "Centreville" ;
+    ns3:region "Maryland" ;
+    ns3:streetAddress "Br   10 Terrace" .
+
+<http://data.lirmm.fr/foaf-network/address/7e1a6eb3-4bac-11e3-8b48-525400c94e15> ns3:locality "Waldo" ;
+    ns3:region "Ohio" ;
+    ns3:streetAddress "F F M Cammarata Place" .
+
+<http://data.lirmm.fr/foaf-network/address/7e1adf32-4bac-11e3-8b48-525400c94e15> ns3:locality "Prescott" ;
+    ns3:region "Washington" ;
+    ns3:streetAddress "Princess Lane" .
+
+<http://data.lirmm.fr/foaf-network/address/7e1b7b7c-4bac-11e3-8b48-525400c94e15> ns3:locality "New Meadows" ;
+    ns3:region "Idaho" ;
+    ns3:streetAddress "Cntrl Park Lenox Av Appr Nb Rb" .
+
+<http://data.lirmm.fr/foaf-network/address/7e1ba322-4bac-11e3-8b48-525400c94e15> ns3:locality "Nesbitt" ;
+    ns3:region "Texas" ;
+    ns3:streetAddress "Firefighter T Mc Sweeney Avenue" .
+
+<http://data.lirmm.fr/foaf-network/address/7e1c17e4-4bac-11e3-8b48-525400c94e15> ns3:locality "Knoxville" ;
+    ns3:region "Illinois" ;
+    ns3:streetAddress "Whitestone Expressway Sr W Unp" .
+
+<http://data.lirmm.fr/foaf-network/address/7e1c17e5-4bac-11e3-8b48-525400c94e15> ns3:locality "Margate" ;
+    ns3:region "Florida" ;
+    ns3:streetAddress "Chambers Street" .
+
+<http://data.lirmm.fr/foaf-network/address/7e1cb500-4bac-11e3-8b48-525400c94e15> ns3:locality "Simcoe" ;
+    ns3:region "Ontario" ;
+    ns3:streetAddress "Lima Street" .
+
+<http://data.lirmm.fr/foaf-network/address/7e1cd76a-4bac-11e3-8b48-525400c94e15> ns3:locality "Los Altos Hills" ;
+    ns3:region "California" ;
+    ns3:streetAddress "Sands Walk" .
+
+<http://data.lirmm.fr/foaf-network/address/7e1d5050-4bac-11e3-8b48-525400c94e15> ns3:locality "Ridge Farm" ;
+    ns3:region "Illinois" ;
+    ns3:streetAddress "Alan Street Outer Sb Roadbed" .
+
+<http://data.lirmm.fr/foaf-network/address/7e1d5051-4bac-11e3-8b48-525400c94e15> ns3:locality "Pinesdale" ;
+    ns3:region "Montana" ;
+    ns3:streetAddress "Avenue Of Strongest" .
+
+<http://data.lirmm.fr/foaf-network/address/7e1ded76-4bac-11e3-8b48-525400c94e15> ns3:locality "Cole Camp" ;
+    ns3:region "Missouri" ;
+    ns3:streetAddress "Glenwood Road" .
+
+<http://data.lirmm.fr/foaf-network/address/7e1e0c02-4bac-11e3-8b48-525400c94e15> ns3:locality "Thornton" ;
+    ns3:region "Colorado" ;
+    ns3:streetAddress "Sara Roosevelt Parkway" .
+
+<http://data.lirmm.fr/foaf-network/address/7e1e88c6-4bac-11e3-8b48-525400c94e15> ns3:locality "Moberly" ;
+    ns3:region "Missouri" ;
+    ns3:streetAddress "Endview Street" .
+
+<http://data.lirmm.fr/foaf-network/address/7e1e88c7-4bac-11e3-8b48-525400c94e15> ns3:locality "Mill Valley" ;
+    ns3:region "California" ;
+    ns3:streetAddress "Web Du Bois Avenue" .
+
+<http://data.lirmm.fr/foaf-network/address/7e1f405e-4bac-11e3-8b48-525400c94e15> ns3:locality "Oakbrook Terrace" ;
+    ns3:region "Illinois" ;
+    ns3:streetAddress "Paerdegat Avenue" .
+
+<http://data.lirmm.fr/foaf-network/address/7e1f405f-4bac-11e3-8b48-525400c94e15> ns3:locality "MacGregor" ;
+    ns3:region "Iowa" ;
+    ns3:streetAddress "Jones Place" .
+
+<http://data.lirmm.fr/foaf-network/address/7e1fc150-4bac-11e3-8b48-525400c94e15> ns3:locality "Cecil" ;
+    ns3:region "Wisconsin" ;
+    ns3:streetAddress "Clovis Road" .
+
+<http://data.lirmm.fr/foaf-network/address/7e1fc151-4bac-11e3-8b48-525400c94e15> ns3:locality "Marine on Saint Croix" ;
+    ns3:region "Minnesota" ;
+    ns3:streetAddress "F F Michael Bocchino Street" .
+
+<http://data.lirmm.fr/foaf-network/address/7e2074e2-4bac-11e3-8b48-525400c94e15> ns3:locality "Broken Bow" ;
+    ns3:region "Oklahoma" ;
+    ns3:streetAddress "U Avenue South" .
+
+<http://data.lirmm.fr/foaf-network/address/7e2074e3-4bac-11e3-8b48-525400c94e15> ns3:locality "Richmond" ;
+    ns3:region "Kansas" ;
+    ns3:streetAddress "East Parkway Eastbound Roadbed" .
+
+<http://data.lirmm.fr/foaf-network/address/7e20fd72-4bac-11e3-8b48-525400c94e15> ns3:locality "Morrison Bluff" ;
+    ns3:region "Arkansas" ;
+    ns3:streetAddress "Utter Avenue" .
+
+<http://data.lirmm.fr/foaf-network/address/7e20fd73-4bac-11e3-8b48-525400c94e15> ns3:locality "Algonquin" ;
+    ns3:region "Illinois" ;
+    ns3:streetAddress "F F John Bergin Place" .
+
+<http://data.lirmm.fr/foaf-network/address/7e21a556-4bac-11e3-8b48-525400c94e15> ns3:locality "Tovey" ;
+    ns3:region "Illinois" ;
+    ns3:streetAddress "Rev W L Harding Place" .
+
+<http://data.lirmm.fr/foaf-network/address/7e21a557-4bac-11e3-8b48-525400c94e15> ns3:locality "Chandler" ;
+    ns3:region "Texas" ;
+    ns3:streetAddress "Chelsea Projects Pedestrian Path" .
+
+<http://data.lirmm.fr/foaf-network/address/7e2232a0-4bac-11e3-8b48-525400c94e15> ns3:locality "Gulf Hills" ;
+    ns3:region "Mississippi" ;
+    ns3:streetAddress "Firefighter D O Berg Way" .
+
+<http://data.lirmm.fr/foaf-network/address/7e2232a1-4bac-11e3-8b48-525400c94e15> ns3:locality "Durham" ;
+    ns3:region "Ontario" ;
+    ns3:streetAddress "Gcp Westbound Exit   11" .
+
+<http://data.lirmm.fr/foaf-network/address/7e22d980-4bac-11e3-8b48-525400c94e15> ns3:locality "Hughesville" ;
+    ns3:region "Missouri" ;
+    ns3:streetAddress "Rev C Hambrick Avenue" .
+
+<http://data.lirmm.fr/foaf-network/address/7e236b16-4bac-11e3-8b48-525400c94e15> ns3:locality "Fraser" ;
+    ns3:region "Iowa" ;
+    ns3:streetAddress "Pedestrian Street" .
+
+<http://data.lirmm.fr/foaf-network/address/7e236b17-4bac-11e3-8b48-525400c94e15> ns3:locality "Thorp" ;
+    ns3:region "Wisconsin" ;
+    ns3:streetAddress "David Place" .
+
+<http://data.lirmm.fr/foaf-network/address/7e24079c-4bac-11e3-8b48-525400c94e15> ns3:locality "Shenandoah" ;
+    ns3:region "Texas" ;
+    ns3:streetAddress "Jj Byrne Memorial Brdg Bike Path" .
+
+<http://data.lirmm.fr/foaf-network/address/7e24079d-4bac-11e3-8b48-525400c94e15> ns3:locality "Dillon" ;
+    ns3:region "Colorado" ;
+    ns3:streetAddress "No Name" .
+
+<http://data.lirmm.fr/foaf-network/address/7e24a954-4bac-11e3-8b48-525400c94e15> ns3:locality "Hiram" ;
+    ns3:region "Maine" ;
+    ns3:streetAddress "Captain Burke Street" .
+
+<http://data.lirmm.fr/foaf-network/address/7e24a9a4-4bac-11e3-8b48-525400c94e15> ns3:locality "Ambler" ;
+    ns3:region "Pennsylvania" ;
+    ns3:streetAddress "Oakland St Southbound Roadbed" .
+
+<http://data.lirmm.fr/foaf-network/address/7e253f72-4bac-11e3-8b48-525400c94e15> ns3:locality "Tye" ;
+    ns3:region "Texas" ;
+    ns3:streetAddress "Claradon Lane" .
+
+<http://data.lirmm.fr/foaf-network/address/7e253f73-4bac-11e3-8b48-525400c94e15> ns3:locality "Glen Saint Mary" ;
+    ns3:region "Florida" ;
+    ns3:streetAddress "Margaret Corbin Drive" .
+
+<http://data.lirmm.fr/foaf-network/address/7e25e256-4bac-11e3-8b48-525400c94e15> ns3:locality "Arizona City" ;
+    ns3:region "Arizona" ;
+    ns3:streetAddress "Randalls Is Greenway" .
+
+<http://data.lirmm.fr/foaf-network/address/7e25e257-4bac-11e3-8b48-525400c94e15> ns3:locality "Klickitat" ;
+    ns3:region "Washington" ;
+    ns3:streetAddress "No Name Street" .
+
+<http://data.lirmm.fr/foaf-network/date/1-10-1979> a ns2:Birth ;
+    ns4:date "1-10-1979" .
+
+<http://data.lirmm.fr/foaf-network/date/1-10-1993> a ns2:Birth ;
+    ns4:date "1-10-1993" .
+
+<http://data.lirmm.fr/foaf-network/date/1-3-1964> a ns2:Birth ;
+    ns4:date "1-3-1964" .
+
+<http://data.lirmm.fr/foaf-network/date/1-3-1988> a ns2:Birth ;
+    ns4:date "1-3-1988" .
+
+<http://data.lirmm.fr/foaf-network/date/1-8-1922> a ns2:Birth ;
+    ns4:date "1-8-1922" .
+
+<http://data.lirmm.fr/foaf-network/date/1-8-1984> a ns2:Birth ;
+    ns4:date "1-8-1984" .
+
+<http://data.lirmm.fr/foaf-network/date/10-10-1928> a ns2:Birth ;
+    ns4:date "10-10-1928" .
+
+<http://data.lirmm.fr/foaf-network/date/10-12-1975> a ns2:Birth ;
+    ns4:date "10-12-1975" .
+
+<http://data.lirmm.fr/foaf-network/date/10-12-1979> a ns2:Birth ;
+    ns4:date "10-12-1979" .
+
+<http://data.lirmm.fr/foaf-network/date/10-2-1931> a ns2:Birth ;
+    ns4:date "10-2-1931" .
+
+<http://data.lirmm.fr/foaf-network/date/10-5-1936> a ns2:Birth ;
+    ns4:date "10-5-1936" .
+
+<http://data.lirmm.fr/foaf-network/date/11-1-1968> a ns2:Birth ;
+    ns4:date "11-1-1968" .
+
+<http://data.lirmm.fr/foaf-network/date/11-7-1926> a ns2:Birth ;
+    ns4:date "11-7-1926" .
+
+<http://data.lirmm.fr/foaf-network/date/12-11-1940> a ns2:Birth ;
+    ns4:date "12-11-1940" .
+
+<http://data.lirmm.fr/foaf-network/date/12-11-1955> a ns2:Birth ;
+    ns4:date "12-11-1955" .
+
+<http://data.lirmm.fr/foaf-network/date/12-12-1918> a ns2:Birth ;
+    ns4:date "12-12-1918" .
+
+<http://data.lirmm.fr/foaf-network/date/12-12-1929> a ns2:Birth ;
+    ns4:date "12-12-1929" .
+
+<http://data.lirmm.fr/foaf-network/date/12-12-1983> a ns2:Birth ;
+    ns4:date "12-12-1983" .
+
+<http://data.lirmm.fr/foaf-network/date/12-2-1973> a ns2:Birth ;
+    ns4:date "12-2-1973" .
+
+<http://data.lirmm.fr/foaf-network/date/12-3-1929> a ns2:Birth ;
+    ns4:date "12-3-1929" .
+
+<http://data.lirmm.fr/foaf-network/date/12-3-1936> a ns2:Birth ;
+    ns4:date "12-3-1936" .
+
+<http://data.lirmm.fr/foaf-network/date/12-3-1968> a ns2:Birth ;
+    ns4:date "12-3-1968" .
+
+<http://data.lirmm.fr/foaf-network/date/12-5-1943> a ns2:Birth ;
+    ns4:date "12-5-1943" .
+
+<http://data.lirmm.fr/foaf-network/date/12-5-1946> a ns2:Birth ;
+    ns4:date "12-5-1946" .
+
+<http://data.lirmm.fr/foaf-network/date/12-7-1967> a ns2:Birth ;
+    ns4:date "12-7-1967" .
+
+<http://data.lirmm.fr/foaf-network/date/13-4-1986> a ns2:Birth ;
+    ns4:date "13-4-1986" .
+
+<http://data.lirmm.fr/foaf-network/date/13-6-1941> a ns2:Birth ;
+    ns4:date "13-6-1941" .
+
+<http://data.lirmm.fr/foaf-network/date/13-7-1941> a ns2:Birth ;
+    ns4:date "13-7-1941" .
+
+<http://data.lirmm.fr/foaf-network/date/13-7-1977> a ns2:Birth ;
+    ns4:date "13-7-1977" .
+
+<http://data.lirmm.fr/foaf-network/date/14-10-1962> a ns2:Birth ;
+    ns4:date "14-10-1962" .
+
+<http://data.lirmm.fr/foaf-network/date/14-12-1970> a ns2:Birth ;
+    ns4:date "14-12-1970" .
+
+<http://data.lirmm.fr/foaf-network/date/14-12-1976> a ns2:Birth ;
+    ns4:date "14-12-1976" .
+
+<http://data.lirmm.fr/foaf-network/date/14-3-1967> a ns2:Birth ;
+    ns4:date "14-3-1967" .
+
+<http://data.lirmm.fr/foaf-network/date/14-4-1973> a ns2:Birth ;
+    ns4:date "14-4-1973" .
+
+<http://data.lirmm.fr/foaf-network/date/14-6-1961> a ns2:Birth ;
+    ns4:date "14-6-1961" .
+
+<http://data.lirmm.fr/foaf-network/date/14-6-1973> a ns2:Birth ;
+    ns4:date "14-6-1973" .
+
+<http://data.lirmm.fr/foaf-network/date/14-8-1950> a ns2:Birth ;
+    ns4:date "14-8-1950" .
+
+<http://data.lirmm.fr/foaf-network/date/14-8-1994> a ns2:Birth ;
+    ns4:date "14-8-1994" .
+
+<http://data.lirmm.fr/foaf-network/date/14-9-1939> a ns2:Birth ;
+    ns4:date "14-9-1939" .
+
+<http://data.lirmm.fr/foaf-network/date/15-1-1925> a ns2:Birth ;
+    ns4:date "15-1-1925" .
+
+<http://data.lirmm.fr/foaf-network/date/15-1-1978> a ns2:Birth ;
+    ns4:date "15-1-1978" .
+
+<http://data.lirmm.fr/foaf-network/date/15-2-1980> a ns2:Birth ;
+    ns4:date "15-2-1980" .
+
+<http://data.lirmm.fr/foaf-network/date/15-3-1977> a ns2:Birth ;
+    ns4:date "15-3-1977" .
+
+<http://data.lirmm.fr/foaf-network/date/15-7-1937> a ns2:Birth ;
+    ns4:date "15-7-1937" .
+
+<http://data.lirmm.fr/foaf-network/date/16-11-1951> a ns2:Birth ;
+    ns4:date "16-11-1951" .
+
+<http://data.lirmm.fr/foaf-network/date/16-12-1952> a ns2:Birth ;
+    ns4:date "16-12-1952" .
+
+<http://data.lirmm.fr/foaf-network/date/16-2-1944> a ns2:Birth ;
+    ns4:date "16-2-1944" .
+
+<http://data.lirmm.fr/foaf-network/date/16-9-1977> a ns2:Birth ;
+    ns4:date "16-9-1977" .
+
+<http://data.lirmm.fr/foaf-network/date/16-9-1995> a ns2:Birth ;
+    ns4:date "16-9-1995" .
+
+<http://data.lirmm.fr/foaf-network/date/17-1-1944> a ns2:Birth ;
+    ns4:date "17-1-1944" .
+
+<http://data.lirmm.fr/foaf-network/date/17-11-1936> a ns2:Birth ;
+    ns4:date "17-11-1936" .
+
+<http://data.lirmm.fr/foaf-network/date/17-5-1924> a ns2:Birth ;
+    ns4:date "17-5-1924" .
+
+<http://data.lirmm.fr/foaf-network/date/17-9-1937> a ns2:Birth ;
+    ns4:date "17-9-1937" .
+
+<http://data.lirmm.fr/foaf-network/date/18-11-1955> a ns2:Birth ;
+    ns4:date "18-11-1955" .
+
+<http://data.lirmm.fr/foaf-network/date/18-12-1930> a ns2:Birth ;
+    ns4:date "18-12-1930" .
+
+<http://data.lirmm.fr/foaf-network/date/18-5-1963> a ns2:Birth ;
+    ns4:date "18-5-1963" .
+
+<http://data.lirmm.fr/foaf-network/date/18-7-1943> a ns2:Birth ;
+    ns4:date "18-7-1943" .
+
+<http://data.lirmm.fr/foaf-network/date/18-7-1961> a ns2:Birth ;
+    ns4:date "18-7-1961" .
+
+<http://data.lirmm.fr/foaf-network/date/18-7-1973> a ns2:Birth ;
+    ns4:date "18-7-1973" .
+
+<http://data.lirmm.fr/foaf-network/date/18-9-1947> a ns2:Birth ;
+    ns4:date "18-9-1947" .
+
+<http://data.lirmm.fr/foaf-network/date/19-11-1913> a ns2:Birth ;
+    ns4:date "19-11-1913" .
+
+<http://data.lirmm.fr/foaf-network/date/19-4-1914> a ns2:Birth ;
+    ns4:date "19-4-1914" .
+
+<http://data.lirmm.fr/foaf-network/date/2-3-1959> a ns2:Birth ;
+    ns4:date "2-3-1959" .
+
+<http://data.lirmm.fr/foaf-network/date/2-3-1979> a ns2:Birth ;
+    ns4:date "2-3-1979" .
+
+<http://data.lirmm.fr/foaf-network/date/20-2-1931> a ns2:Birth ;
+    ns4:date "20-2-1931" .
+
+<http://data.lirmm.fr/foaf-network/date/20-5-1987> a ns2:Birth ;
+    ns4:date "20-5-1987" .
+
+<http://data.lirmm.fr/foaf-network/date/20-6-1928> a ns2:Birth ;
+    ns4:date "20-6-1928" .
+
+<http://data.lirmm.fr/foaf-network/date/21-10-1959> a ns2:Birth ;
+    ns4:date "21-10-1959" .
+
+<http://data.lirmm.fr/foaf-network/date/21-11-1945> a ns2:Birth ;
+    ns4:date "21-11-1945" .
+
+<http://data.lirmm.fr/foaf-network/date/21-12-1938> a ns2:Birth ;
+    ns4:date "21-12-1938" .
+
+<http://data.lirmm.fr/foaf-network/date/21-12-1968> a ns2:Birth ;
+    ns4:date "21-12-1968" .
+
+<http://data.lirmm.fr/foaf-network/date/21-12-1971> a ns2:Birth ;
+    ns4:date "21-12-1971" .
+
+<http://data.lirmm.fr/foaf-network/date/21-3-1968> a ns2:Birth ;
+    ns4:date "21-3-1968" .
+
+<http://data.lirmm.fr/foaf-network/date/22-1-1927> a ns2:Birth ;
+    ns4:date "22-1-1927" .
+
+<http://data.lirmm.fr/foaf-network/date/22-1-1934> a ns2:Birth ;
+    ns4:date "22-1-1934" .
+
+<http://data.lirmm.fr/foaf-network/date/22-12-1946> a ns2:Birth ;
+    ns4:date "22-12-1946" .
+
+<http://data.lirmm.fr/foaf-network/date/22-12-1947> a ns2:Birth ;
+    ns4:date "22-12-1947" .
+
+<http://data.lirmm.fr/foaf-network/date/22-12-1961> a ns2:Birth ;
+    ns4:date "22-12-1961" .
+
+<http://data.lirmm.fr/foaf-network/date/22-2-1965> a ns2:Birth ;
+    ns4:date "22-2-1965" .
+
+<http://data.lirmm.fr/foaf-network/date/22-8-1922> a ns2:Birth ;
+    ns4:date "22-8-1922" .
+
+<http://data.lirmm.fr/foaf-network/date/23-1-1937> a ns2:Birth ;
+    ns4:date "23-1-1937" .
+
+<http://data.lirmm.fr/foaf-network/date/23-1-1971> a ns2:Birth ;
+    ns4:date "23-1-1971" .
+
+<http://data.lirmm.fr/foaf-network/date/23-3-1930> a ns2:Birth ;
+    ns4:date "23-3-1930" .
+
+<http://data.lirmm.fr/foaf-network/date/23-5-1958> a ns2:Birth ;
+    ns4:date "23-5-1958" .
+
+<http://data.lirmm.fr/foaf-network/date/23-6-1929> a ns2:Birth ;
+    ns4:date "23-6-1929" .
+
+<http://data.lirmm.fr/foaf-network/date/23-7-1918> a ns2:Birth ;
+    ns4:date "23-7-1918" .
+
+<http://data.lirmm.fr/foaf-network/date/23-8-1987> a ns2:Birth ;
+    ns4:date "23-8-1987" .
+
+<http://data.lirmm.fr/foaf-network/date/23-8-1988> a ns2:Birth ;
+    ns4:date "23-8-1988" .
+
+<http://data.lirmm.fr/foaf-network/date/24-1-1967> a ns2:Birth ;
+    ns4:date "24-1-1967" .
+
+<http://data.lirmm.fr/foaf-network/date/24-11-1919> a ns2:Birth ;
+    ns4:date "24-11-1919" .
+
+<http://data.lirmm.fr/foaf-network/date/24-12-1915> a ns2:Birth ;
+    ns4:date "24-12-1915" .
+
+<http://data.lirmm.fr/foaf-network/date/24-2-1940> a ns2:Birth ;
+    ns4:date "24-2-1940" .
+
+<http://data.lirmm.fr/foaf-network/date/24-5-1971> a ns2:Birth ;
+    ns4:date "24-5-1971" .
+
+<http://data.lirmm.fr/foaf-network/date/24-5-1972> a ns2:Birth ;
+    ns4:date "24-5-1972" .
+
+<http://data.lirmm.fr/foaf-network/date/25-10-1970> a ns2:Birth ;
+    ns4:date "25-10-1970" .
+
+<http://data.lirmm.fr/foaf-network/date/25-2-1978> a ns2:Birth ;
+    ns4:date "25-2-1978" .
+
+<http://data.lirmm.fr/foaf-network/date/25-4-1947> a ns2:Birth ;
+    ns4:date "25-4-1947" .
+
+<http://data.lirmm.fr/foaf-network/date/25-7-1963> a ns2:Birth ;
+    ns4:date "25-7-1963" .
+
+<http://data.lirmm.fr/foaf-network/date/25-8-1985> a ns2:Birth ;
+    ns4:date "25-8-1985" .
+
+<http://data.lirmm.fr/foaf-network/date/25-9-1963> a ns2:Birth ;
+    ns4:date "25-9-1963" .
+
+<http://data.lirmm.fr/foaf-network/date/26-12-1925> a ns2:Birth ;
+    ns4:date "26-12-1925" .
+
+<http://data.lirmm.fr/foaf-network/date/26-6-1987> a ns2:Birth ;
+    ns4:date "26-6-1987" .
+
+<http://data.lirmm.fr/foaf-network/date/26-7-1947> a ns2:Birth ;
+    ns4:date "26-7-1947" .
+
+<http://data.lirmm.fr/foaf-network/date/26-8-1965> a ns2:Birth ;
+    ns4:date "26-8-1965" .
+
+<http://data.lirmm.fr/foaf-network/date/27-10-1967> a ns2:Birth ;
+    ns4:date "27-10-1967" .
+
+<http://data.lirmm.fr/foaf-network/date/27-8-1943> a ns2:Birth ;
+    ns4:date "27-8-1943" .
+
+<http://data.lirmm.fr/foaf-network/date/28-11-1920> a ns2:Birth ;
+    ns4:date "28-11-1920" .
+
+<http://data.lirmm.fr/foaf-network/date/28-12-1979> a ns2:Birth ;
+    ns4:date "28-12-1979" .
+
+<http://data.lirmm.fr/foaf-network/date/28-4-1991> a ns2:Birth ;
+    ns4:date "28-4-1991" .
+
+<http://data.lirmm.fr/foaf-network/date/28-4-1994> a ns2:Birth ;
+    ns4:date "28-4-1994" .
+
+<http://data.lirmm.fr/foaf-network/date/28-8-1976> a ns2:Birth ;
+    ns4:date "28-8-1976" .
+
+<http://data.lirmm.fr/foaf-network/date/29-10-1965> a ns2:Birth ;
+    ns4:date "29-10-1965" .
+
+<http://data.lirmm.fr/foaf-network/date/29-11-1951> a ns2:Birth ;
+    ns4:date "29-11-1951" .
+
+<http://data.lirmm.fr/foaf-network/date/29-12-1941> a ns2:Birth ;
+    ns4:date "29-12-1941" .
+
+<http://data.lirmm.fr/foaf-network/date/29-2-1924> a ns2:Birth ;
+    ns4:date "29-2-1924" .
+
+<http://data.lirmm.fr/foaf-network/date/29-2-1956> a ns2:Birth ;
+    ns4:date "29-2-1956" .
+
+<http://data.lirmm.fr/foaf-network/date/29-4-1968> a ns2:Birth ;
+    ns4:date "29-4-1968" .
+
+<http://data.lirmm.fr/foaf-network/date/29-5-1926> a ns2:Birth ;
+    ns4:date "29-5-1926" .
+
+<http://data.lirmm.fr/foaf-network/date/29-5-1939> a ns2:Birth ;
+    ns4:date "29-5-1939" .
+
+<http://data.lirmm.fr/foaf-network/date/29-9-1950> a ns2:Birth ;
+    ns4:date "29-9-1950" .
+
+<http://data.lirmm.fr/foaf-network/date/3-1-1967> a ns2:Birth ;
+    ns4:date "3-1-1967" .
+
+<http://data.lirmm.fr/foaf-network/date/3-11-1914> a ns2:Birth ;
+    ns4:date "3-11-1914" .
+
+<http://data.lirmm.fr/foaf-network/date/3-2-1969> a ns2:Birth ;
+    ns4:date "3-2-1969" .
+
+<http://data.lirmm.fr/foaf-network/date/3-3-1917> a ns2:Birth ;
+    ns4:date "3-3-1917" .
+
+<http://data.lirmm.fr/foaf-network/date/3-5-1950> a ns2:Birth ;
+    ns4:date "3-5-1950" .
+
+<http://data.lirmm.fr/foaf-network/date/3-5-1981> a ns2:Birth ;
+    ns4:date "3-5-1981" .
+
+<http://data.lirmm.fr/foaf-network/date/3-6-1976> a ns2:Birth ;
+    ns4:date "3-6-1976" .
+
+<http://data.lirmm.fr/foaf-network/date/30-1-1995> a ns2:Birth ;
+    ns4:date "30-1-1995" .
+
+<http://data.lirmm.fr/foaf-network/date/30-10-1952> a ns2:Birth ;
+    ns4:date "30-10-1952" .
+
+<http://data.lirmm.fr/foaf-network/date/30-10-1978> a ns2:Birth ;
+    ns4:date "30-10-1978" .
+
+<http://data.lirmm.fr/foaf-network/date/30-12-1933> a ns2:Birth ;
+    ns4:date "30-12-1933" .
+
+<http://data.lirmm.fr/foaf-network/date/30-2-1989> a ns2:Birth ;
+    ns4:date "30-2-1989" .
+
+<http://data.lirmm.fr/foaf-network/date/30-3-1982> a ns2:Birth ;
+    ns4:date "30-3-1982" .
+
+<http://data.lirmm.fr/foaf-network/date/30-9-1971> a ns2:Birth ;
+    ns4:date "30-9-1971" .
+
+<http://data.lirmm.fr/foaf-network/date/4-1-1994> a ns2:Birth ;
+    ns4:date "4-1-1994" .
+
+<http://data.lirmm.fr/foaf-network/date/4-10-1940> a ns2:Birth ;
+    ns4:date "4-10-1940" .
+
+<http://data.lirmm.fr/foaf-network/date/4-10-1968> a ns2:Birth ;
+    ns4:date "4-10-1968" .
+
+<http://data.lirmm.fr/foaf-network/date/4-11-1983> a ns2:Birth ;
+    ns4:date "4-11-1983" .
+
+<http://data.lirmm.fr/foaf-network/date/4-6-1929> a ns2:Birth ;
+    ns4:date "4-6-1929" .
+
+<http://data.lirmm.fr/foaf-network/date/4-9-1944> a ns2:Birth ;
+    ns4:date "4-9-1944" .
+
+<http://data.lirmm.fr/foaf-network/date/4-9-1989> a ns2:Birth ;
+    ns4:date "4-9-1989" .
+
+<http://data.lirmm.fr/foaf-network/date/5-12-1972> a ns2:Birth ;
+    ns4:date "5-12-1972" .
+
+<http://data.lirmm.fr/foaf-network/date/5-2-1941> a ns2:Birth ;
+    ns4:date "5-2-1941" .
+
+<http://data.lirmm.fr/foaf-network/date/5-3-1933> a ns2:Birth ;
+    ns4:date "5-3-1933" .
+
+<http://data.lirmm.fr/foaf-network/date/5-4-1953> a ns2:Birth ;
+    ns4:date "5-4-1953" .
+
+<http://data.lirmm.fr/foaf-network/date/5-7-1916> a ns2:Birth ;
+    ns4:date "5-7-1916" .
+
+<http://data.lirmm.fr/foaf-network/date/5-8-1969> a ns2:Birth ;
+    ns4:date "5-8-1969" .
+
+<http://data.lirmm.fr/foaf-network/date/5-8-1984> a ns2:Birth ;
+    ns4:date "5-8-1984" .
+
+<http://data.lirmm.fr/foaf-network/date/5-9-1939> a ns2:Birth ;
+    ns4:date "5-9-1939" .
+
+<http://data.lirmm.fr/foaf-network/date/5-9-1964> a ns2:Birth ;
+    ns4:date "5-9-1964" .
+
+<http://data.lirmm.fr/foaf-network/date/6-5-1939> a ns2:Birth ;
+    ns4:date "6-5-1939" .
+
+<http://data.lirmm.fr/foaf-network/date/7-1-1979> a ns2:Birth ;
+    ns4:date "7-1-1979" .
+
+<http://data.lirmm.fr/foaf-network/date/7-7-1938> a ns2:Birth ;
+    ns4:date "7-7-1938" .
+
+<http://data.lirmm.fr/foaf-network/date/7-8-1924> a ns2:Birth ;
+    ns4:date "7-8-1924" .
+
+<http://data.lirmm.fr/foaf-network/date/7-8-1936> a ns2:Birth ;
+    ns4:date "7-8-1936" .
+
+<http://data.lirmm.fr/foaf-network/date/7-9-1942> a ns2:Birth ;
+    ns4:date "7-9-1942" .
+
+<http://data.lirmm.fr/foaf-network/date/8-11-1980> a ns2:Birth ;
+    ns4:date "8-11-1980" .
+
+<http://data.lirmm.fr/foaf-network/date/8-12-1957> a ns2:Birth ;
+    ns4:date "8-12-1957" .
+
+<http://data.lirmm.fr/foaf-network/date/8-5-1966> a ns2:Birth ;
+    ns4:date "8-5-1966" .
+
+<http://data.lirmm.fr/foaf-network/date/8-9-1969> a ns2:Birth ;
+    ns4:date "8-9-1969" .
+
+<http://data.lirmm.fr/foaf-network/date/9-12-1934> a ns2:Birth ;
+    ns4:date "9-12-1934" .
+
+<http://data.lirmm.fr/foaf-network/date/9-3-1954> a ns2:Birth ;
+    ns4:date "9-3-1954" .
+
+<http://data.lirmm.fr/foaf-network/date/9-5-1918> a ns2:Birth ;
+    ns4:date "9-5-1918" .
+
+<http://data.lirmm.fr/foaf-network/date/9-5-1988> a ns2:Birth ;
+    ns4:date "9-5-1988" .
+
+<http://data.lirmm.fr/foaf-network/date/9-7-1976> a ns2:Birth ;
+    ns4:date "9-7-1976" .
+
+<http://data.lirmm.fr/foaf-network/date/9-8-1954> a ns2:Birth ;
+    ns4:date "9-8-1954" .
+
+<http://data.lirmm.fr/foaf-network/date/9-9-1956> a ns2:Birth ;
+    ns4:date "9-9-1956" .
+
+<http://data.lirmm.fr/foaf-network/person/111> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/18-12-1930> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e17d2e2-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Schroeter" ;
+    ns1:firstName "Richard" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/110> ;
+    ns1:mbox "Richard.Schroeter@hsuchi.net" .
+
+<http://data.lirmm.fr/foaf-network/person/120> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/5-4-1953> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7df48c11-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Gardner" ;
+    ns1:firstName "John" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/120> ;
+    ns1:mbox "John9526@mail2nike.com" .
+
+<http://data.lirmm.fr/foaf-network/person/130> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/19-4-1914> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e1fc150-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Blume" ;
+    ns1:firstName "Carl" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/130> ;
+    ns1:mbox "CarlBlume@mail2kyle.com" .
+
+<http://data.lirmm.fr/foaf-network/person/151> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/12-3-1936> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e1e88c7-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Roulette" ;
+    ns1:firstName "Jacob" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/150> ;
+    ns1:mbox "Jacob1214@indexa.fr" .
+
+<http://data.lirmm.fr/foaf-network/person/20> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/7-7-1938> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7dee3ce8-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Smith" ;
+    ns1:firstName "Joan" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/20> ;
+    ns1:mbox "Joan1222@mail15.com" .
+
+<http://data.lirmm.fr/foaf-network/person/200> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/22-12-1946> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7df779fc-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Schmitt" ;
+    ns1:firstName "Cassidy" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/200> ;
+    ns1:mbox "Cassidy-Schmitt@mail2mrright.com" .
+
+<http://data.lirmm.fr/foaf-network/person/250> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/12-3-1968> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e142958-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Nall" ;
+    ns1:firstName "Marlene" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/250> ;
+    ns1:mbox "Marlene-Nall@mail2nevada.com" .
+
+<http://data.lirmm.fr/foaf-network/person/350> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/21-3-1968> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7dfc617e-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Johnson" ;
+    ns1:firstName "Abigail" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/350> ;
+    ns1:mbox "Abigail.Johnson@mail2color.com" .
+
+<http://data.lirmm.fr/foaf-network/person/360> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/30-10-1978> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7dfc617f-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Cox" ;
+    ns1:firstName "Rosa" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/360> ;
+    ns1:mbox "Rosa-Cox@velnet.co.uk" .
+
+<http://data.lirmm.fr/foaf-network/person/390> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/5-8-1984> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7dfd99d6-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Cervantes" ;
+    ns1:firstName "Marvel" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/390> ;
+    ns1:mbox "Marvel-Cervantes@mail2tim.com" .
+
+<http://data.lirmm.fr/foaf-network/person/40> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/6-5-1939> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7df8b291-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Borders" ;
+    ns1:firstName "Alisha" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/40> ;
+    ns1:mbox "Alisha.Borders@mail.austria.com" .
+
+<http://data.lirmm.fr/foaf-network/person/400> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/21-12-1968> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7dfd99d7-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Knight" ;
+    ns1:firstName "Kathleen" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/400> ;
+    ns1:mbox "KathleenKnight@mail2truck.com" .
+
+<http://data.lirmm.fr/foaf-network/person/410> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/23-7-1918> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e182422-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Graham" ;
+    ns1:firstName "Lorene" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/410> ;
+    ns1:mbox "Lorene.Graham@verizonmail.com" .
+
+<http://data.lirmm.fr/foaf-network/person/420> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/27-8-1943> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7dfe2f91-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Snell" ;
+    ns1:firstName "Sean" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/420> ;
+    ns1:mbox "SSnell@mail2sandy.com" .
+
+<http://data.lirmm.fr/foaf-network/person/440> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/14-4-1973> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7dfed239-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Wright" ;
+    ns1:firstName "Michael" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/440> ;
+    ns1:mbox "MWright@epatra.com" .
+
+<http://data.lirmm.fr/foaf-network/person/451> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/1-10-1979> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e1f405f-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Sample" ;
+    ns1:firstName "Julius" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/450> ;
+    ns1:mbox "Julius.Sample@send.hu" .
+
+<http://data.lirmm.fr/foaf-network/person/461> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/8-12-1957> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7dfe2f90-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Spurlock" ;
+    ns1:firstName "Tyrone" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/460> ;
+    ns1:mbox "TyroneSpurlock@mail2mark.com" .
+
+<http://data.lirmm.fr/foaf-network/person/500> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/12-11-1940> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e014324-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Montgomery" ;
+    ns1:firstName "Edward" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/500> ;
+    ns1:mbox "Edward9720@mail2cute.com" .
+
+<http://data.lirmm.fr/foaf-network/person/510> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/1-3-1964> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e014325-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Weigel" ;
+    ns1:firstName "Craig" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/510> ;
+    ns1:mbox "CWeigel@netsquare.com" .
+
+<http://data.lirmm.fr/foaf-network/person/520> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/29-9-1950> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e014326-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Howard" ;
+    ns1:firstName "Gerald" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/520> ;
+    ns1:mbox "Gerald-Howard@mail2cory.com" .
+
+<http://data.lirmm.fr/foaf-network/person/540> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/7-8-1924> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e027c08-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Ly" ;
+    ns1:firstName "Sharon" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/540> ;
+    ns1:mbox "Sharon1663@sci.fi" .
+
+<http://data.lirmm.fr/foaf-network/person/570> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/18-7-1943> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e031191-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Harrow" ;
+    ns1:firstName "Ashley" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/570> ;
+    ns1:mbox "AHarrow@thewebpros.co.uk" .
+
+<http://data.lirmm.fr/foaf-network/person/580> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/5-9-1939> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e03b460-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Strickland" ;
+    ns1:firstName "Timothy" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/580> ;
+    ns1:mbox "Timothy9495@netbroadcaster.com" .
+
+<http://data.lirmm.fr/foaf-network/person/600> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/18-9-1947> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e1d5050-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Lang" ;
+    ns1:firstName "Danielle" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/600> ;
+    ns1:mbox "DLang@sailormoon.com" .
+
+<http://data.lirmm.fr/foaf-network/person/671> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/10-2-1931> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7df94e6c-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Kent" ;
+    ns1:firstName "Thomas" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/670> ;
+    ns1:mbox "TKent@raakim.com" .
+
+<http://data.lirmm.fr/foaf-network/person/681> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/9-12-1934> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e15fd14-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Kempa" ;
+    ns1:firstName "Terry" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/680> ;
+    ns1:mbox "TKempa@mail2ellen.com" .
+
+<http://data.lirmm.fr/foaf-network/person/702> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/30-1-1995> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e1c17e5-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Burton" ;
+    ns1:firstName "Tara" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/700> ;
+    ns1:mbox "TaraBurton@hackermail.net" .
+
+<http://data.lirmm.fr/foaf-network/person/720> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/23-8-1988> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e07fa21-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Bero" ;
+    ns1:firstName "Sheryl" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/720> ;
+    ns1:mbox "SBero@everyone.net" .
+
+<http://data.lirmm.fr/foaf-network/person/730> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/8-11-1980> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e088fbc-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Thomas" ;
+    ns1:firstName "Gloria" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/730> ;
+    ns1:mbox "GloriaThomas@geologist.com" .
+
+<http://data.lirmm.fr/foaf-network/person/740> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/15-7-1937> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e088fbd-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Ferretti" ;
+    ns1:firstName "Clifford" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/740> ;
+    ns1:mbox "Clifford1400@popstar.com" .
+
+<http://data.lirmm.fr/foaf-network/person/760> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/28-4-1991> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e0937fa-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Tims" ;
+    ns1:firstName "Rebecca" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/760> ;
+    ns1:mbox "RebeccaTims@emailaccount.com" .
+
+<http://data.lirmm.fr/foaf-network/person/791> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/1-10-1993> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e1d5051-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Robinson" ;
+    ns1:firstName "Mario" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/790> ;
+    ns1:mbox "Mario.Robinson@freemail.lt" .
+
+<http://data.lirmm.fr/foaf-network/person/792> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/9-7-1976> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e253f72-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Lee" ;
+    ns1:firstName "Adam" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/790> ;
+    ns1:mbox "AdamLee@mail2jimmy.com" .
+
+<http://data.lirmm.fr/foaf-network/person/80> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/23-1-1937> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7df361dc-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Amador" ;
+    ns1:firstName "Allen" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/80> ;
+    ns1:mbox "Allen-Amador@mail2married.com" .
+
+<http://data.lirmm.fr/foaf-network/person/801> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/29-5-1939> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e1e88c6-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Fowlkes" ;
+    ns1:firstName "Vern" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/800> ;
+    ns1:mbox "Vern-Fowlkes@positive-thinking.com" .
+
+<http://data.lirmm.fr/foaf-network/person/830> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/10-10-1928> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e0ba31e-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Jackson" ;
+    ns1:firstName "Kimberly" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/830> ;
+    ns1:mbox "Kimberly838@marchmail.com" .
+
+<http://data.lirmm.fr/foaf-network/person/840> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/4-10-1940> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e0ba31f-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Lopez" ;
+    ns1:firstName "Dorothy" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/840> ;
+    ns1:mbox "DorothyLopez@okmad.com" .
+
+<http://data.lirmm.fr/foaf-network/person/851> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/20-5-1987> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e236b17-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Songer" ;
+    ns1:firstName "Harry" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/850> ;
+    ns1:mbox "HarrySonger@mail2gail.com" .
+
+<http://data.lirmm.fr/foaf-network/person/870> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/17-1-1944> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e0cd676-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Montgomery" ;
+    ns1:firstName "Bridget" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/870> ;
+    ns1:mbox "BMontgomery@mail2santa.com" .
+
+<http://data.lirmm.fr/foaf-network/person/910> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/30-9-1971> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e0e0f00-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Berry" ;
+    ns1:firstName "Rona" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/910> ;
+    ns1:mbox "RonaBerry@mail2helen.com" .
+
+<http://data.lirmm.fr/foaf-network/person/930> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/21-12-1971> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e0ea9f6-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Slaughter" ;
+    ns1:firstName "Gary" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/930> ;
+    ns1:mbox "Gary5704@sneakemail.com" .
+
+<http://data.lirmm.fr/foaf-network/person/940> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/5-3-1933> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e0f4762-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Domenico" ;
+    ns1:firstName "Jamie" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/940> ;
+    ns1:mbox "Jamie-Domenico@fmail.co.uk" .
+
+<http://data.lirmm.fr/foaf-network/person/950> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/29-2-1956> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e0f4763-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Broadnax" ;
+    ns1:firstName "Jillian" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/950> ;
+    ns1:mbox "JillianBroadnax@fromnewjersey.com" .
+
+<http://data.lirmm.fr/foaf-network/person/960> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/14-8-1994> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e0fe276-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Thomas" ;
+    ns1:firstName "David" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/960> ;
+    ns1:mbox "DavidThomas@bachelorboy.com" .
+
+<http://data.lirmm.fr/foaf-network/person/990> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/22-8-1922> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e107fe3-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Lorden" ;
+    ns1:firstName "Barry" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/990> ;
+    ns1:mbox "Barry-Lorden@netster.com" .
+
+<http://data.lirmm.fr/foaf-network/person/0> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/26-6-1987> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7deb40a6-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Maalouf" ;
+    ns1:firstName "Column" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/0>,
+        <http://data.lirmm.fr/foaf-network/person/430> ;
+    ns1:mbox "Column-Maalouf@mail2think.com" .
+
+<http://data.lirmm.fr/foaf-network/person/11> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/10-5-1936> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e138c1e-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Tilson" ;
+    ns1:firstName "Robert" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/10>,
+        <http://data.lirmm.fr/foaf-network/person/13> ;
+    ns1:mbox "Robert7842@mail2phoenix.com" .
+
+<http://data.lirmm.fr/foaf-network/person/12> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/3-11-1914> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e12f0ed-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Tores" ;
+    ns1:firstName "Travis" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/10>,
+        <http://data.lirmm.fr/foaf-network/person/13> ;
+    ns1:mbox "Travis1473@mail2peace.com" .
+
+<http://data.lirmm.fr/foaf-network/person/161> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/25-2-1978> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e1958ba-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Martin" ;
+    ns1:firstName "Susan" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/160>,
+        <http://data.lirmm.fr/foaf-network/person/162> ;
+    ns1:mbox "Susan7325@mail.bulgaria.com" .
+
+<http://data.lirmm.fr/foaf-network/person/191> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/15-1-1978> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e24079d-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Espinosa" ;
+    ns1:firstName "John" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/190>,
+        <http://data.lirmm.fr/foaf-network/person/820> ;
+    ns1:mbox "JohnEspinosa@montevideo.com.uy" .
+
+<http://data.lirmm.fr/foaf-network/person/221> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/17-11-1936> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e14c4b3-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Kemmerer" ;
+    ns1:firstName "John" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/220>,
+        <http://data.lirmm.fr/foaf-network/person/270> ;
+    ns1:mbox "JohnKemmerer@dailypioneer.com" .
+
+<http://data.lirmm.fr/foaf-network/person/240> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/9-5-1918> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7df8b290-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Coker" ;
+    ns1:firstName "Donna" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/240>,
+        <http://data.lirmm.fr/foaf-network/person/640> ;
+    ns1:mbox "DCoker@mail2kosher.com" .
+
+<http://data.lirmm.fr/foaf-network/person/260> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/11-7-1926> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e19c58e-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Sandavol" ;
+    ns1:firstName "Joel" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/260>,
+        <http://data.lirmm.fr/foaf-network/person/290> ;
+    ns1:mbox "JoelSandavol@mail2arizona.com" .
+
+<http://data.lirmm.fr/foaf-network/person/271> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/4-10-1968> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e22d980-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Denton" ;
+    ns1:firstName "Carlos" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/220>,
+        <http://data.lirmm.fr/foaf-network/person/270> ;
+    ns1:mbox "Carlos-Denton@warmmail.com" .
+
+<http://data.lirmm.fr/foaf-network/person/300> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/12-12-1929> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7dfac5d0-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Kilpatrick" ;
+    ns1:firstName "Arron" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/300>,
+        <http://data.lirmm.fr/foaf-network/person/470> ;
+    ns1:mbox "ArronKilpatrick@fromrhodeisland.com" .
+
+<http://data.lirmm.fr/foaf-network/person/312> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/17-5-1924> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e1ded76-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Appleton" ;
+    ns1:firstName "Rachel" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/310>,
+        <http://data.lirmm.fr/foaf-network/person/311> ;
+    ns1:mbox "RAppleton@dynamitemail.com" .
+
+<http://data.lirmm.fr/foaf-network/person/332> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/27-10-1967> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e190b58-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Mcwilliams" ;
+    ns1:firstName "Ben" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/330>,
+        <http://data.lirmm.fr/foaf-network/person/331> ;
+    ns1:mbox "BMcwilliams@fromnewyork.net" .
+
+<http://data.lirmm.fr/foaf-network/person/333> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/4-9-1944> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e12f0ec-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Riordan" ;
+    ns1:firstName "Maria" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/330>,
+        <http://data.lirmm.fr/foaf-network/person/331> ;
+    ns1:mbox "Maria.Riordan@boxfrog.com" .
+
+<http://data.lirmm.fr/foaf-network/person/341> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/24-5-1971> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e11b880-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Bascom" ;
+    ns1:firstName "Ivy" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/340>,
+        <http://data.lirmm.fr/foaf-network/person/342> ;
+    ns1:mbox "IvyBascom@mail2palau.com" .
+
+<http://data.lirmm.fr/foaf-network/person/342> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/22-1-1934> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e1adf32-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Eck" ;
+    ns1:firstName "Paul" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/340>,
+        <http://data.lirmm.fr/foaf-network/person/341> ;
+    ns1:mbox "Paul-Eck@mail2japan.com" .
+
+<http://data.lirmm.fr/foaf-network/person/370> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/23-5-1958> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7dfcf6fc-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Frehse" ;
+    ns1:firstName "Jeremy" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/320>,
+        <http://data.lirmm.fr/foaf-network/person/370> ;
+    ns1:mbox "JFrehse@mail2song.com" .
+
+<http://data.lirmm.fr/foaf-network/person/381> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/24-1-1967> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e2232a0-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Kennedy" ;
+    ns1:firstName "Mary" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/30>,
+        <http://data.lirmm.fr/foaf-network/person/380> ;
+    ns1:mbox "Mary-Kennedy@mail2tennisfan.com" .
+
+<http://data.lirmm.fr/foaf-network/person/450> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/18-11-1955> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7dff681a-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Garcia" ;
+    ns1:firstName "Cynthia" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/450>,
+        <http://data.lirmm.fr/foaf-network/person/451> ;
+    ns1:mbox "Cynthia-Garcia@the-cowboy.com" .
+
+<http://data.lirmm.fr/foaf-network/person/481> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/21-11-1945> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e24079c-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Zeigler" ;
+    ns1:firstName "Peggy" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/480>,
+        <http://data.lirmm.fr/foaf-network/person/770> ;
+    ns1:mbox "PZeigler@coolmail.net" .
+
+<http://data.lirmm.fr/foaf-network/person/482> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/22-12-1947> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e21a556-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Pappas" ;
+    ns1:firstName "Nicholas" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/480>,
+        <http://data.lirmm.fr/foaf-network/person/770> ;
+    ns1:mbox "NicholasPappas@grungecafe.com" .
+
+<http://data.lirmm.fr/foaf-network/person/490> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/16-2-1944> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e00a07c-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Tingle" ;
+    ns1:firstName "Hong" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/490>,
+        <http://data.lirmm.fr/foaf-network/person/560> ;
+    ns1:mbox "HongTingle@the-army.com" .
+
+<http://data.lirmm.fr/foaf-network/person/532> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/25-8-1985> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e111b01-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Newberry" ;
+    ns1:firstName "Tami" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/530>,
+        <http://data.lirmm.fr/foaf-network/person/531> ;
+    ns1:mbox "Tami.Newberry@mail2rocker.com" .
+
+<http://data.lirmm.fr/foaf-network/person/560> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/24-5-1972> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e031190-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Whittemore" ;
+    ns1:firstName "Darrell" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/490>,
+        <http://data.lirmm.fr/foaf-network/person/560> ;
+    ns1:mbox "Darrell-Whittemore@mail2washington.com" .
+
+<http://data.lirmm.fr/foaf-network/person/590> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/23-8-1987> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e03b461-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Youngblood" ;
+    ns1:firstName "Anthony" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/590>,
+        <http://data.lirmm.fr/foaf-network/person/690> ;
+    ns1:mbox "Anthony.Youngblood@1mum.com" .
+
+<http://data.lirmm.fr/foaf-network/person/611> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/29-12-1941> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e1e0c02-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Austin" ;
+    ns1:firstName "Michael" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/610>,
+        <http://data.lirmm.fr/foaf-network/person/612> ;
+    ns1:mbox "Michael-Austin@mailup.net" .
+
+<http://data.lirmm.fr/foaf-network/person/612> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/20-2-1931> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e24a9a4-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Robinson" ;
+    ns1:firstName "Dean" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/610>,
+        <http://data.lirmm.fr/foaf-network/person/611> ;
+    ns1:mbox "Dean1700@mail2henry.com" .
+
+<http://data.lirmm.fr/foaf-network/person/621> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/18-7-1973> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e2074e2-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Ward" ;
+    ns1:firstName "Lupe" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/620>,
+        <http://data.lirmm.fr/foaf-network/person/623> ;
+    ns1:mbox "Lupe-Ward@mailchoose.co" .
+
+<http://data.lirmm.fr/foaf-network/person/622> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/10-12-1979> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7df1651c-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Burgie" ;
+    ns1:firstName "Deborah" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/620>,
+        <http://data.lirmm.fr/foaf-network/person/623> ;
+    ns1:mbox "Deborah.Burgie@arabtop.net" .
+
+<http://data.lirmm.fr/foaf-network/person/640> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/1-3-1988> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e05822c-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Elmore" ;
+    ns1:firstName "Rachel" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/240>,
+        <http://data.lirmm.fr/foaf-network/person/640> ;
+    ns1:mbox "RElmore@mail2one.com" .
+
+<http://data.lirmm.fr/foaf-network/person/662> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/14-9-1939> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e1a6eb2-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Lin" ;
+    ns1:firstName "Lupe" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/660>,
+        <http://data.lirmm.fr/foaf-network/person/661> ;
+    ns1:mbox "Lupe.Lin@post.sk" .
+
+<http://data.lirmm.fr/foaf-network/person/663> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/12-7-1967> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e1ba322-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Walden" ;
+    ns1:firstName "Mark" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/660>,
+        <http://data.lirmm.fr/foaf-network/person/661> ;
+    ns1:mbox "Mark.Walden@fromvermont.com" .
+
+<http://data.lirmm.fr/foaf-network/person/701> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/9-8-1954> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e2074e3-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Bradley" ;
+    ns1:firstName "Donald" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/700>,
+        <http://data.lirmm.fr/foaf-network/person/703> ;
+    ns1:mbox "Donald5113@blackburnmail.com" .
+
+<http://data.lirmm.fr/foaf-network/person/703> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/2-3-1959> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e1c17e4-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Crowder" ;
+    ns1:firstName "Suzanne" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/700>,
+        <http://data.lirmm.fr/foaf-network/person/701> ;
+    ns1:mbox "Suzanne-Crowder@mail2moon.com" .
+
+<http://data.lirmm.fr/foaf-network/person/710> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/29-4-1968> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e07fa20-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Burden" ;
+    ns1:firstName "Henry" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/150>,
+        <http://data.lirmm.fr/foaf-network/person/710> ;
+    ns1:mbox "Henry.Burden@mystupidjob.com" .
+
+<http://data.lirmm.fr/foaf-network/person/750> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/10-12-1975> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e088fbe-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Munson" ;
+    ns1:firstName "James" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/750>,
+        <http://data.lirmm.fr/foaf-network/person/970> ;
+    ns1:mbox "James-Munson@24horas.com" .
+
+<http://data.lirmm.fr/foaf-network/person/800> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/28-4-1994> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e0a6b21-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Mcgrath" ;
+    ns1:firstName "Vincenzo" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/800>,
+        <http://data.lirmm.fr/foaf-network/person/801> ;
+    ns1:mbox "VMcgrath@mail2anything.com" .
+
+<http://data.lirmm.fr/foaf-network/person/811> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/7-1-1979> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e1fc151-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Plair" ;
+    ns1:firstName "Larry" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/550>,
+        <http://data.lirmm.fr/foaf-network/person/810> ;
+    ns1:mbox "Larry1347@kaixo.com" .
+
+<http://data.lirmm.fr/foaf-network/person/850> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/15-2-1980> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e0c38ec-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Harris" ;
+    ns1:firstName "Edward" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/850>,
+        <http://data.lirmm.fr/foaf-network/person/851> ;
+    ns1:mbox "Edward9386@mail2mgz.com" .
+
+<http://data.lirmm.fr/foaf-network/person/860> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/5-12-1972> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e138c1f-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Ford" ;
+    ns1:firstName "Gary" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/860>,
+        <http://data.lirmm.fr/foaf-network/person/90> ;
+    ns1:mbox "Gary7056@infohq.com" .
+
+<http://data.lirmm.fr/foaf-network/person/892> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/25-4-1947> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e1b7b7c-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Rivers" ;
+    ns1:firstName "James" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/890>,
+        <http://data.lirmm.fr/foaf-network/person/891> ;
+    ns1:mbox "JamesRivers@mail2vietnam.com" .
+
+<http://data.lirmm.fr/foaf-network/person/893> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/12-5-1943> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e236b16-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Warner" ;
+    ns1:firstName "Katherine" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/890>,
+        <http://data.lirmm.fr/foaf-network/person/891> ;
+    ns1:mbox "Katherine8913@mail2whip.com" .
+
+<http://data.lirmm.fr/foaf-network/person/90> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/23-6-1929> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7df361dd-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Rodger" ;
+    ns1:firstName "Dave" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/860>,
+        <http://data.lirmm.fr/foaf-network/person/90> ;
+    ns1:mbox "Dave.Rodger@hushmail.com" .
+
+<http://data.lirmm.fr/foaf-network/person/901> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/14-10-1962> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e0c38ed-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Miskovich" ;
+    ns1:firstName "Eleanor" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/900>,
+        <http://data.lirmm.fr/foaf-network/person/903> ;
+    ns1:mbox "Eleanor809@mail2protect.com" .
+
+<http://data.lirmm.fr/foaf-network/person/902> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/14-12-1976> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e14ab76-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Hendricks" ;
+    ns1:firstName "Vivian" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/900>,
+        <http://data.lirmm.fr/foaf-network/person/903> ;
+    ns1:mbox "VHendricks@soulfoodcookbook.com" .
+
+<http://data.lirmm.fr/foaf-network/person/921> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/5-7-1916> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e1f405e-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Mcdonough" ;
+    ns1:firstName "Barbara" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/920>,
+        <http://data.lirmm.fr/foaf-network/person/922> ;
+    ns1:mbox "BMcdonough@mail2italy.com" .
+
+<http://data.lirmm.fr/foaf-network/person/980> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/9-5-1988> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e107fe2-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Finn" ;
+    ns1:firstName "Miguel" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/630>,
+        <http://data.lirmm.fr/foaf-network/person/980> ;
+    ns1:mbox "MFinn@mail2fly.com" .
+
+<http://data.lirmm.fr/foaf-network/person/110> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/5-8-1969> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7df48c10-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Day" ;
+    ns1:firstName "Jenice" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/110>,
+        <http://data.lirmm.fr/foaf-network/person/111>,
+        <http://data.lirmm.fr/foaf-network/person/970> ;
+    ns1:mbox "JDay@comic.com" .
+
+<http://data.lirmm.fr/foaf-network/person/13> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/5-2-1941> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e1cb500-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Street" ;
+    ns1:firstName "Daniel" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/10>,
+        <http://data.lirmm.fr/foaf-network/person/11>,
+        <http://data.lirmm.fr/foaf-network/person/12> ;
+    ns1:mbox "Daniel-Street@freeaccess.nl" .
+
+<http://data.lirmm.fr/foaf-network/person/140> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/4-9-1989> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7df5111d-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Smith" ;
+    ns1:firstName "Clarence" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/140>,
+        <http://data.lirmm.fr/foaf-network/person/430>,
+        <http://data.lirmm.fr/foaf-network/person/790> ;
+    ns1:mbox "ClarenceSmith@mail2egypt.com" .
+
+<http://data.lirmm.fr/foaf-network/person/150> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/12-12-1918> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7df5b6ee-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Mahlman" ;
+    ns1:firstName "Mary" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/150>,
+        <http://data.lirmm.fr/foaf-network/person/151>,
+        <http://data.lirmm.fr/foaf-network/person/710> ;
+    ns1:mbox "Mary-Mahlman@mail-page.com" .
+
+<http://data.lirmm.fr/foaf-network/person/162> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/28-8-1976> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e2232a1-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Bilbrew" ;
+    ns1:firstName "Margaret" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/160>,
+        <http://data.lirmm.fr/foaf-network/person/161>,
+        <http://data.lirmm.fr/foaf-network/person/470> ;
+    ns1:mbox "Margaret.Bilbrew@mail2stockholm.com" .
+
+<http://data.lirmm.fr/foaf-network/person/180> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/7-8-1936> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7df6edca-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Vilcheck" ;
+    ns1:firstName "Laura" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/100>,
+        <http://data.lirmm.fr/foaf-network/person/180>,
+        <http://data.lirmm.fr/foaf-network/person/630> ;
+    ns1:mbox "Laura9923@net4b.pt" .
+
+<http://data.lirmm.fr/foaf-network/person/211> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/12-2-1973> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e111b00-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Lee" ;
+    ns1:firstName "Owen" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/10>,
+        <http://data.lirmm.fr/foaf-network/person/210>,
+        <http://data.lirmm.fr/foaf-network/person/212> ;
+    ns1:mbox "Owen.Lee@mail2business.com" .
+
+<http://data.lirmm.fr/foaf-network/person/212> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/26-8-1965> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e186e3d-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Mascio" ;
+    ns1:firstName "Winnie" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/10>,
+        <http://data.lirmm.fr/foaf-network/person/210>,
+        <http://data.lirmm.fr/foaf-network/person/211> ;
+    ns1:mbox "Winnie-Mascio@mail2milkyway.com" .
+
+<http://data.lirmm.fr/foaf-network/person/230> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/23-3-1930> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7df82047-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Wagner" ;
+    ns1:firstName "Paul" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/230>,
+        <http://data.lirmm.fr/foaf-network/person/320>,
+        <http://data.lirmm.fr/foaf-network/person/680> ;
+    ns1:mbox "Paul.Wagner@mail2thailand.com" .
+
+<http://data.lirmm.fr/foaf-network/person/290> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/18-5-1963> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7dfa85e8-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Herman" ;
+    ns1:firstName "Vicky" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/260>,
+        <http://data.lirmm.fr/foaf-network/person/290>,
+        <http://data.lirmm.fr/foaf-network/person/470> ;
+    ns1:mbox "VHerman@prontomail.com" .
+
+<http://data.lirmm.fr/foaf-network/person/30> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/18-7-1961> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7def8ed6-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Eastman" ;
+    ns1:firstName "David" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/30>,
+        <http://data.lirmm.fr/foaf-network/person/380>,
+        <http://data.lirmm.fr/foaf-network/person/381> ;
+    ns1:mbox "DavidEastman@dcemail.com" .
+
+<http://data.lirmm.fr/foaf-network/person/313> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/28-12-1979> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e24a954-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Thomas" ;
+    ns1:firstName "Johnnie" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/220>,
+        <http://data.lirmm.fr/foaf-network/person/310>,
+        <http://data.lirmm.fr/foaf-network/person/311> ;
+    ns1:mbox "Johnnie.Thomas@mail2billy.com" .
+
+<http://data.lirmm.fr/foaf-network/person/320> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/16-11-1951> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7dfb28ff-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Dezarn" ;
+    ns1:firstName "Howard" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/230>,
+        <http://data.lirmm.fr/foaf-network/person/320>,
+        <http://data.lirmm.fr/foaf-network/person/370> ;
+    ns1:mbox "Howard-Dezarn@mail2computer.com" .
+
+<http://data.lirmm.fr/foaf-network/person/331> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/1-8-1984> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e253f73-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Arredondo" ;
+    ns1:firstName "Danny" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/330>,
+        <http://data.lirmm.fr/foaf-network/person/332>,
+        <http://data.lirmm.fr/foaf-network/person/333> ;
+    ns1:mbox "Danny-Arredondo@mail2oscars.com" .
+
+<http://data.lirmm.fr/foaf-network/person/340> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/14-8-1950> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7dfc2286-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Collins" ;
+    ns1:firstName "Darren" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/340>,
+        <http://data.lirmm.fr/foaf-network/person/341>,
+        <http://data.lirmm.fr/foaf-network/person/342> ;
+    ns1:mbox "Darren-Collins@mail2erinyes.com" .
+
+<http://data.lirmm.fr/foaf-network/person/380> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/3-2-1969> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7dfcf6fd-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Lomeli" ;
+    ns1:firstName "George" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/30>,
+        <http://data.lirmm.fr/foaf-network/person/380>,
+        <http://data.lirmm.fr/foaf-network/person/381> ;
+    ns1:mbox "GLomeli@mail2phonecall.com" .
+
+<http://data.lirmm.fr/foaf-network/person/430> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/30-2-1989> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7dfed238-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Dixon" ;
+    ns1:firstName "Collin" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/0>,
+        <http://data.lirmm.fr/foaf-network/person/140>,
+        <http://data.lirmm.fr/foaf-network/person/430> ;
+    ns1:mbox "Collin627@kiwibox.com" .
+
+<http://data.lirmm.fr/foaf-network/person/460> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/8-5-1966> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7dff681b-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Elliott" ;
+    ns1:firstName "Timothy" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/170>,
+        <http://data.lirmm.fr/foaf-network/person/460>,
+        <http://data.lirmm.fr/foaf-network/person/461> ;
+    ns1:mbox "TElliott@mauimail.com" .
+
+<http://data.lirmm.fr/foaf-network/person/51> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/3-6-1976> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e1735a9-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Barrier" ;
+    ns1:firstName "Ronald" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/170>,
+        <http://data.lirmm.fr/foaf-network/person/50>,
+        <http://data.lirmm.fr/foaf-network/person/920> ;
+    ns1:mbox "Ronald8502@from-korea.com" .
+
+<http://data.lirmm.fr/foaf-network/person/533> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/13-6-1941> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e20fd72-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Rabe" ;
+    ns1:firstName "Carl" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/530>,
+        <http://data.lirmm.fr/foaf-network/person/531>,
+        <http://data.lirmm.fr/foaf-network/person/60> ;
+    ns1:mbox "Carl585@mail2devotion.com" .
+
+<http://data.lirmm.fr/foaf-network/person/553> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/3-5-1981> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e25e256-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Bouchey" ;
+    ns1:firstName "Charles" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/550>,
+        <http://data.lirmm.fr/foaf-network/person/552>,
+        <http://data.lirmm.fr/foaf-network/person/810> ;
+    ns1:mbox "Charles.Bouchey@fromflorida.net" .
+
+<http://data.lirmm.fr/foaf-network/person/610> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/15-3-1977> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e044a07-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Ratcliffe" ;
+    ns1:firstName "Deborah" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/610>,
+        <http://data.lirmm.fr/foaf-network/person/611>,
+        <http://data.lirmm.fr/foaf-network/person/612> ;
+    ns1:mbox "DRatcliffe@mail2jennifer.com" .
+
+<http://data.lirmm.fr/foaf-network/person/62> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/4-6-1929> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e21a557-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Moser" ;
+    ns1:firstName "Robert" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/60>,
+        <http://data.lirmm.fr/foaf-network/person/61>,
+        <http://data.lirmm.fr/foaf-network/person/63> ;
+    ns1:mbox "RMoser@corporatedirtbag.com" .
+
+<http://data.lirmm.fr/foaf-network/person/623> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/12-5-1946> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e1561d8-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Price" ;
+    ns1:firstName "Column" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/620>,
+        <http://data.lirmm.fr/foaf-network/person/621>,
+        <http://data.lirmm.fr/foaf-network/person/622> ;
+    ns1:mbox "Column9888@airpost.net" .
+
+<http://data.lirmm.fr/foaf-network/person/630> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/13-7-1941> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e04ec4b-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Wheeler" ;
+    ns1:firstName "Harvey" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/180>,
+        <http://data.lirmm.fr/foaf-network/person/630>,
+        <http://data.lirmm.fr/foaf-network/person/980> ;
+    ns1:mbox "Harvey9613@mail.be" .
+
+<http://data.lirmm.fr/foaf-network/person/651> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/22-12-1961> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e1a6eb3-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Berry" ;
+    ns1:firstName "Michael" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/650>,
+        <http://data.lirmm.fr/foaf-network/person/652>,
+        <http://data.lirmm.fr/foaf-network/person/653> ;
+    ns1:mbox "Michael1919@alex4all.com" .
+
+<http://data.lirmm.fr/foaf-network/person/652> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/3-3-1917> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e19a6c6-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Johnston" ;
+    ns1:firstName "Diane" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/650>,
+        <http://data.lirmm.fr/foaf-network/person/651>,
+        <http://data.lirmm.fr/foaf-network/person/653> ;
+    ns1:mbox "Diane.Johnston@fnbmail.co.za" .
+
+<http://data.lirmm.fr/foaf-network/person/653> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/20-6-1928> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e186e3c-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Reeves" ;
+    ns1:firstName "Mary" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/650>,
+        <http://data.lirmm.fr/foaf-network/person/651>,
+        <http://data.lirmm.fr/foaf-network/person/652> ;
+    ns1:mbox "Mary-Reeves@freestart.hu" .
+
+<http://data.lirmm.fr/foaf-network/person/661> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/12-11-1955> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e14c4b2-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Baines" ;
+    ns1:firstName "Jeremy" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/660>,
+        <http://data.lirmm.fr/foaf-network/person/662>,
+        <http://data.lirmm.fr/foaf-network/person/663> ;
+    ns1:mbox "JeremyBaines@mail2czechrepublic.com" .
+
+<http://data.lirmm.fr/foaf-network/person/670> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/23-1-1971> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e061f8f-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Loudin" ;
+    ns1:firstName "Terry" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/220>,
+        <http://data.lirmm.fr/foaf-network/person/670>,
+        <http://data.lirmm.fr/foaf-network/person/671> ;
+    ns1:mbox "TerryLoudin@mail2lynn.com" .
+
+<http://data.lirmm.fr/foaf-network/person/680> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/28-11-1920> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e06ba7a-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Desouza" ;
+    ns1:firstName "Vivian" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/230>,
+        <http://data.lirmm.fr/foaf-network/person/680>,
+        <http://data.lirmm.fr/foaf-network/person/681> ;
+    ns1:mbox "Vivian5070@mail2yes.com" .
+
+<http://data.lirmm.fr/foaf-network/person/690> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/14-3-1967> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e06ba7b-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Hoff" ;
+    ns1:firstName "Lisa" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/100>,
+        <http://data.lirmm.fr/foaf-network/person/590>,
+        <http://data.lirmm.fr/foaf-network/person/690> ;
+    ns1:mbox "Lisa507@mail2eli.com" .
+
+<http://data.lirmm.fr/foaf-network/person/70> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/24-2-1940> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7df2978f-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Smith" ;
+    ns1:firstName "Column" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/310>,
+        <http://data.lirmm.fr/foaf-network/person/311>,
+        <http://data.lirmm.fr/foaf-network/person/70> ;
+    ns1:mbox "CSmith@tiscali.lu" .
+
+<http://data.lirmm.fr/foaf-network/person/820> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/5-9-1964> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e0b00d1-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Powell" ;
+    ns1:firstName "Darin" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/190>,
+        <http://data.lirmm.fr/foaf-network/person/191>,
+        <http://data.lirmm.fr/foaf-network/person/820> ;
+    ns1:mbox "Darin-Powell@mail2student.com" .
+
+<http://data.lirmm.fr/foaf-network/person/891> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/17-9-1937> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7df5111c-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Bryant" ;
+    ns1:firstName "Harry" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/890>,
+        <http://data.lirmm.fr/foaf-network/person/892>,
+        <http://data.lirmm.fr/foaf-network/person/893> ;
+    ns1:mbox "Harry.Bryant@mail2salaam.com" .
+
+<http://data.lirmm.fr/foaf-network/person/903> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/25-10-1970> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e16c0a0-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Leonardo" ;
+    ns1:firstName "Craig" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/900>,
+        <http://data.lirmm.fr/foaf-network/person/901>,
+        <http://data.lirmm.fr/foaf-network/person/902> ;
+    ns1:mbox "CLeonardo@kimo.com" .
+
+<http://data.lirmm.fr/foaf-network/person/922> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/29-10-1965> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e075746-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Smith" ;
+    ns1:firstName "Loretta" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/50>,
+        <http://data.lirmm.fr/foaf-network/person/920>,
+        <http://data.lirmm.fr/foaf-network/person/921> ;
+    ns1:mbox "Loretta-Smith@mail2buy.com" .
+
+<http://data.lirmm.fr/foaf-network/person/970> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/9-9-1956> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e1cd76a-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Ramos" ;
+    ns1:firstName "Philip" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/110>,
+        <http://data.lirmm.fr/foaf-network/person/750>,
+        <http://data.lirmm.fr/foaf-network/person/970> ;
+    ns1:mbox "Philip-Ramos@mail2aunt.com" .
+
+<http://data.lirmm.fr/foaf-network/person/100> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/25-9-1963> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7df3d0b8-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Vashon" ;
+    ns1:firstName "Column" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/100>,
+        <http://data.lirmm.fr/foaf-network/person/180>,
+        <http://data.lirmm.fr/foaf-network/person/330>,
+        <http://data.lirmm.fr/foaf-network/person/690> ;
+    ns1:mbox "Column.Vashon@camidge.com" .
+
+<http://data.lirmm.fr/foaf-network/person/160> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/15-1-1925> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7df5b6ef-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Wilson" ;
+    ns1:firstName "Andrea" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/160>,
+        <http://data.lirmm.fr/foaf-network/person/161>,
+        <http://data.lirmm.fr/foaf-network/person/162>,
+        <http://data.lirmm.fr/foaf-network/person/470> ;
+    ns1:mbox "Andrea-Wilson@mail2trex.com" .
+
+<http://data.lirmm.fr/foaf-network/person/170> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/13-4-1986> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7df6415e-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Maniscalco" ;
+    ns1:firstName "Becky" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/170>,
+        <http://data.lirmm.fr/foaf-network/person/460>,
+        <http://data.lirmm.fr/foaf-network/person/50>,
+        <http://data.lirmm.fr/foaf-network/person/51> ;
+    ns1:mbox "Becky4308@visitmail.com" .
+
+<http://data.lirmm.fr/foaf-network/person/210> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/22-2-1965> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7df779fd-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Millet" ;
+    ns1:firstName "Dawn" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/10>,
+        <http://data.lirmm.fr/foaf-network/person/210>,
+        <http://data.lirmm.fr/foaf-network/person/211>,
+        <http://data.lirmm.fr/foaf-network/person/212> ;
+    ns1:mbox "Dawn5133@mail2platinum.com" .
+
+<http://data.lirmm.fr/foaf-network/person/270> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/26-7-1947> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7df94e6d-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Pasquale" ;
+    ns1:firstName "Robert" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/220>,
+        <http://data.lirmm.fr/foaf-network/person/221>,
+        <http://data.lirmm.fr/foaf-network/person/270>,
+        <http://data.lirmm.fr/foaf-network/person/271> ;
+    ns1:mbox "Robert-Pasquale@fromarkansas.com" .
+
+<http://data.lirmm.fr/foaf-network/person/280> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/30-10-1952> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7df9f01a-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Mcnickle" ;
+    ns1:firstName "Lorena" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/280>,
+        <http://data.lirmm.fr/foaf-network/person/550>,
+        <http://data.lirmm.fr/foaf-network/person/551>,
+        <http://data.lirmm.fr/foaf-network/person/552> ;
+    ns1:mbox "LMcnickle@mail2uncle.com" .
+
+<http://data.lirmm.fr/foaf-network/person/480> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/11-1-1968> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e00a004-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Column" ;
+    ns1:firstName "Alice" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/480>,
+        <http://data.lirmm.fr/foaf-network/person/481>,
+        <http://data.lirmm.fr/foaf-network/person/482>,
+        <http://data.lirmm.fr/foaf-network/person/770> ;
+    ns1:mbox "AColumn@post.cz" .
+
+<http://data.lirmm.fr/foaf-network/person/531> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/12-3-1929> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e125394-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Vassallo" ;
+    ns1:firstName "Samuel" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/530>,
+        <http://data.lirmm.fr/foaf-network/person/532>,
+        <http://data.lirmm.fr/foaf-network/person/533>,
+        <http://data.lirmm.fr/foaf-network/person/60> ;
+    ns1:mbox "SVassallo@mail2presbyterian.com" .
+
+<http://data.lirmm.fr/foaf-network/person/551> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/25-7-1963> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e15e018-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Morales" ;
+    ns1:firstName "Jody" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/280>,
+        <http://data.lirmm.fr/foaf-network/person/550>,
+        <http://data.lirmm.fr/foaf-network/person/552>,
+        <http://data.lirmm.fr/foaf-network/person/810> ;
+    ns1:mbox "Jody7467@nirvanafan.com" .
+
+<http://data.lirmm.fr/foaf-network/person/552> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/4-11-1983> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e1735a8-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Reuter" ;
+    ns1:firstName "William" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/280>,
+        <http://data.lirmm.fr/foaf-network/person/550>,
+        <http://data.lirmm.fr/foaf-network/person/551>,
+        <http://data.lirmm.fr/foaf-network/person/553> ;
+    ns1:mbox "William.Reuter@mail2admiral.com" .
+
+<http://data.lirmm.fr/foaf-network/person/61> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/3-5-1950> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e20fd73-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Payne" ;
+    ns1:firstName "Wendy" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/530>,
+        <http://data.lirmm.fr/foaf-network/person/60>,
+        <http://data.lirmm.fr/foaf-network/person/62>,
+        <http://data.lirmm.fr/foaf-network/person/63> ;
+    ns1:mbox "WPayne@madrid.com" .
+
+<http://data.lirmm.fr/foaf-network/person/620> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/14-6-1973> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e04ec4a-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Elliot" ;
+    ns1:firstName "William" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/620>,
+        <http://data.lirmm.fr/foaf-network/person/621>,
+        <http://data.lirmm.fr/foaf-network/person/622>,
+        <http://data.lirmm.fr/foaf-network/person/623> ;
+    ns1:mbox "William7553@aberystwyth.com" .
+
+<http://data.lirmm.fr/foaf-network/person/63> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/9-3-1954> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e169a62-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "James" ;
+    ns1:firstName "Judy" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/530>,
+        <http://data.lirmm.fr/foaf-network/person/60>,
+        <http://data.lirmm.fr/foaf-network/person/61>,
+        <http://data.lirmm.fr/foaf-network/person/62> ;
+    ns1:mbox "Judy9059@the-lair.com" .
+
+<http://data.lirmm.fr/foaf-network/person/650> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/14-6-1961> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e05822d-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Smith" ;
+    ns1:firstName "Jimmy" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/650>,
+        <http://data.lirmm.fr/foaf-network/person/651>,
+        <http://data.lirmm.fr/foaf-network/person/652>,
+        <http://data.lirmm.fr/foaf-network/person/653> ;
+    ns1:mbox "Jimmy-Smith@mscold.com" .
+
+<http://data.lirmm.fr/foaf-network/person/660> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/8-9-1969> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e061f8e-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Kircher" ;
+    ns1:firstName "Mark" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/660>,
+        <http://data.lirmm.fr/foaf-network/person/661>,
+        <http://data.lirmm.fr/foaf-network/person/662>,
+        <http://data.lirmm.fr/foaf-network/person/663> ;
+    ns1:mbox "Mark-Kircher@mail2tramp.com" .
+
+<http://data.lirmm.fr/foaf-network/person/700> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/22-1-1927> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e044a06-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Nettles" ;
+    ns1:firstName "Julie" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/700>,
+        <http://data.lirmm.fr/foaf-network/person/701>,
+        <http://data.lirmm.fr/foaf-network/person/702>,
+        <http://data.lirmm.fr/foaf-network/person/703> ;
+    ns1:mbox "JNettles@mail2normal.com" .
+
+<http://data.lirmm.fr/foaf-network/person/770> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/2-3-1979> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e09c85a-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Murphy" ;
+    ns1:firstName "Tina" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/480>,
+        <http://data.lirmm.fr/foaf-network/person/481>,
+        <http://data.lirmm.fr/foaf-network/person/482>,
+        <http://data.lirmm.fr/foaf-network/person/770> ;
+    ns1:mbox "Tina170@saudia.com" .
+
+<http://data.lirmm.fr/foaf-network/person/780> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/1-8-1922> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e09f820-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Smith" ;
+    ns1:firstName "Michael" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/780>,
+        <http://data.lirmm.fr/foaf-network/person/880>,
+        <http://data.lirmm.fr/foaf-network/person/881>,
+        <http://data.lirmm.fr/foaf-network/person/882> ;
+    ns1:mbox "Michael-Smith@miho-nakayama.com" .
+
+<http://data.lirmm.fr/foaf-network/person/790> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/13-7-1977> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e0a6b20-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Ingenito" ;
+    ns1:firstName "Barbara" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/140>,
+        <http://data.lirmm.fr/foaf-network/person/790>,
+        <http://data.lirmm.fr/foaf-network/person/791>,
+        <http://data.lirmm.fr/foaf-network/person/792> ;
+    ns1:mbox "Barbara7327@mail2sylvia.com" .
+
+<http://data.lirmm.fr/foaf-network/person/882> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/14-12-1970> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e125395-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Page" ;
+    ns1:firstName "Michael" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/780>,
+        <http://data.lirmm.fr/foaf-network/person/880>,
+        <http://data.lirmm.fr/foaf-network/person/881>,
+        <http://data.lirmm.fr/foaf-network/person/883> ;
+    ns1:mbox "MPage@mail.r-o-o-t.com" .
+
+<http://data.lirmm.fr/foaf-network/person/883> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/30-12-1933> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e11b881-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Cranston" ;
+    ns1:firstName "Joseph" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/190>,
+        <http://data.lirmm.fr/foaf-network/person/880>,
+        <http://data.lirmm.fr/foaf-network/person/881>,
+        <http://data.lirmm.fr/foaf-network/person/882> ;
+    ns1:mbox "JosephCranston@mail2dow.com" .
+
+<http://data.lirmm.fr/foaf-network/person/890> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/3-1-1967> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e0d7306-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Lambert" ;
+    ns1:firstName "Column" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/890>,
+        <http://data.lirmm.fr/foaf-network/person/891>,
+        <http://data.lirmm.fr/foaf-network/person/892>,
+        <http://data.lirmm.fr/foaf-network/person/893> ;
+    ns1:mbox "Column.Lambert@mail2visionary.com" .
+
+<http://data.lirmm.fr/foaf-network/person/900> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/16-9-1995> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e0d7307-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Behrens" ;
+    ns1:firstName "John" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/900>,
+        <http://data.lirmm.fr/foaf-network/person/901>,
+        <http://data.lirmm.fr/foaf-network/person/902>,
+        <http://data.lirmm.fr/foaf-network/person/903> ;
+    ns1:mbox "JohnBehrens@mail2ghana.com" .
+
+<http://data.lirmm.fr/foaf-network/person/311> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/7-9-1942> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e0fe277-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "King" ;
+    ns1:firstName "Mary" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/220>,
+        <http://data.lirmm.fr/foaf-network/person/310>,
+        <http://data.lirmm.fr/foaf-network/person/312>,
+        <http://data.lirmm.fr/foaf-network/person/313>,
+        <http://data.lirmm.fr/foaf-network/person/70> ;
+    ns1:mbox "MKing@i12.com" .
+
+<http://data.lirmm.fr/foaf-network/person/330> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/12-12-1983> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7dfbbe9a-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Quinlan" ;
+    ns1:firstName "Brian" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/100>,
+        <http://data.lirmm.fr/foaf-network/person/330>,
+        <http://data.lirmm.fr/foaf-network/person/331>,
+        <http://data.lirmm.fr/foaf-network/person/332>,
+        <http://data.lirmm.fr/foaf-network/person/333> ;
+    ns1:mbox "Brian1845@mail2lee.com" .
+
+<http://data.lirmm.fr/foaf-network/person/470> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/16-12-1952> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e000aa4-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Garcia" ;
+    ns1:firstName "Ralph" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/160>,
+        <http://data.lirmm.fr/foaf-network/person/162>,
+        <http://data.lirmm.fr/foaf-network/person/290>,
+        <http://data.lirmm.fr/foaf-network/person/300>,
+        <http://data.lirmm.fr/foaf-network/person/470> ;
+    ns1:mbox "RalphGarcia@ukr.net" .
+
+<http://data.lirmm.fr/foaf-network/person/50> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/30-3-1982> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7df1fb94-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Sullivan" ;
+    ns1:firstName "Junior" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/170>,
+        <http://data.lirmm.fr/foaf-network/person/50>,
+        <http://data.lirmm.fr/foaf-network/person/51>,
+        <http://data.lirmm.fr/foaf-network/person/920>,
+        <http://data.lirmm.fr/foaf-network/person/922> ;
+    ns1:mbox "JuniorSullivan@flashmail.com" .
+
+<http://data.lirmm.fr/foaf-network/person/810> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/24-11-1919> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e0b00d0-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Card" ;
+    ns1:firstName "Pauline" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/550>,
+        <http://data.lirmm.fr/foaf-network/person/551>,
+        <http://data.lirmm.fr/foaf-network/person/553>,
+        <http://data.lirmm.fr/foaf-network/person/810>,
+        <http://data.lirmm.fr/foaf-network/person/811> ;
+    ns1:mbox "Pauline1008@mail2vodka.com" .
+
+<http://data.lirmm.fr/foaf-network/person/881> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/21-12-1938> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e25e257-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Hamlin" ;
+    ns1:firstName "Agnes" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/190>,
+        <http://data.lirmm.fr/foaf-network/person/780>,
+        <http://data.lirmm.fr/foaf-network/person/880>,
+        <http://data.lirmm.fr/foaf-network/person/882>,
+        <http://data.lirmm.fr/foaf-network/person/883> ;
+    ns1:mbox "AHamlin@meloo.com" .
+
+<http://data.lirmm.fr/foaf-network/person/920> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/29-5-1926> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e0ea33e-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Robichaud" ;
+    ns1:firstName "Maxine" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/50>,
+        <http://data.lirmm.fr/foaf-network/person/51>,
+        <http://data.lirmm.fr/foaf-network/person/920>,
+        <http://data.lirmm.fr/foaf-network/person/921>,
+        <http://data.lirmm.fr/foaf-network/person/922> ;
+    ns1:mbox "Maxine-Robichaud@dr.com" .
+
+<http://data.lirmm.fr/foaf-network/person/190> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/4-1-1994> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7df6edcb-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Cook" ;
+    ns1:firstName "Joseph" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/190>,
+        <http://data.lirmm.fr/foaf-network/person/191>,
+        <http://data.lirmm.fr/foaf-network/person/820>,
+        <http://data.lirmm.fr/foaf-network/person/880>,
+        <http://data.lirmm.fr/foaf-network/person/881>,
+        <http://data.lirmm.fr/foaf-network/person/883> ;
+    ns1:mbox "Joseph.Cook@mail2erinyes.com" .
+
+<http://data.lirmm.fr/foaf-network/person/310> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/29-11-1951> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7dfb28fe-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Fields" ;
+    ns1:firstName "Laurie" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/220>,
+        <http://data.lirmm.fr/foaf-network/person/310>,
+        <http://data.lirmm.fr/foaf-network/person/311>,
+        <http://data.lirmm.fr/foaf-network/person/312>,
+        <http://data.lirmm.fr/foaf-network/person/313>,
+        <http://data.lirmm.fr/foaf-network/person/70> ;
+    ns1:mbox "Laurie.Fields@mail2pilot.com" .
+
+<http://data.lirmm.fr/foaf-network/person/880> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/19-11-1913> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e0cd677-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Collins" ;
+    ns1:firstName "Jimmie" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/190>,
+        <http://data.lirmm.fr/foaf-network/person/780>,
+        <http://data.lirmm.fr/foaf-network/person/880>,
+        <http://data.lirmm.fr/foaf-network/person/881>,
+        <http://data.lirmm.fr/foaf-network/person/882>,
+        <http://data.lirmm.fr/foaf-network/person/883> ;
+    ns1:mbox "Jimmie-Collins@hongkong.com" .
+
+<http://data.lirmm.fr/foaf-network/person/10> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/24-12-1915> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7dec7d36-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Durocher" ;
+    ns1:firstName "Eileen" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/10>,
+        <http://data.lirmm.fr/foaf-network/person/11>,
+        <http://data.lirmm.fr/foaf-network/person/12>,
+        <http://data.lirmm.fr/foaf-network/person/13>,
+        <http://data.lirmm.fr/foaf-network/person/210>,
+        <http://data.lirmm.fr/foaf-network/person/211>,
+        <http://data.lirmm.fr/foaf-network/person/212> ;
+    ns1:mbox "Eileen3429@mail2single.com" .
+
+<http://data.lirmm.fr/foaf-network/person/530> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/16-9-1977> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e01d906-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Bubb" ;
+    ns1:firstName "Iris" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/530>,
+        <http://data.lirmm.fr/foaf-network/person/531>,
+        <http://data.lirmm.fr/foaf-network/person/532>,
+        <http://data.lirmm.fr/foaf-network/person/533>,
+        <http://data.lirmm.fr/foaf-network/person/60>,
+        <http://data.lirmm.fr/foaf-network/person/61>,
+        <http://data.lirmm.fr/foaf-network/person/63> ;
+    ns1:mbox "IBubb@imtoosexy.com" .
+
+<http://data.lirmm.fr/foaf-network/person/550> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/21-10-1959> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7e027c09-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Valente" ;
+    ns1:firstName "John" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/280>,
+        <http://data.lirmm.fr/foaf-network/person/550>,
+        <http://data.lirmm.fr/foaf-network/person/551>,
+        <http://data.lirmm.fr/foaf-network/person/552>,
+        <http://data.lirmm.fr/foaf-network/person/553>,
+        <http://data.lirmm.fr/foaf-network/person/810>,
+        <http://data.lirmm.fr/foaf-network/person/811> ;
+    ns1:mbox "John.Valente@lankamail.com" .
+
+<http://data.lirmm.fr/foaf-network/person/60> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/29-2-1924> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7df2978e-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Tighe" ;
+    ns1:firstName "Emma" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/530>,
+        <http://data.lirmm.fr/foaf-network/person/531>,
+        <http://data.lirmm.fr/foaf-network/person/533>,
+        <http://data.lirmm.fr/foaf-network/person/60>,
+        <http://data.lirmm.fr/foaf-network/person/61>,
+        <http://data.lirmm.fr/foaf-network/person/62>,
+        <http://data.lirmm.fr/foaf-network/person/63> ;
+    ns1:mbox "Emma8251@mail2sabrina.com" .
+
+<http://data.lirmm.fr/foaf-network/person/220> a ns1:Person ;
+    ns2:birth <http://data.lirmm.fr/foaf-network/date/26-12-1925> ;
+    ns3:hasAddress <http://data.lirmm.fr/foaf-network/address/7df82046-4bac-11e3-8b48-525400c94e15> ;
+    ns1:familyName "Davis" ;
+    ns1:firstName "Brandon" ;
+    ns1:knows <http://data.lirmm.fr/foaf-network/person/220>,
+        <http://data.lirmm.fr/foaf-network/person/221>,
+        <http://data.lirmm.fr/foaf-network/person/270>,
+        <http://data.lirmm.fr/foaf-network/person/271>,
+        <http://data.lirmm.fr/foaf-network/person/310>,
+        <http://data.lirmm.fr/foaf-network/person/311>,
+        <http://data.lirmm.fr/foaf-network/person/313>,
+        <http://data.lirmm.fr/foaf-network/person/670> ;
+    ns1:mbox "Brandon7037@mail2max.com" .
+
