@@ -7,7 +7,7 @@ setup(name='names',
       description='Generates a random social network',
       license='Apache 2',
       author='Francois Scharffe',
-      author_email='francois.scharffe@free.fr',
+      author_email='',
       url='http://github.com/lechatpito/gesonet',
       py_modules=['src/gesonet'],
      )
